@@ -1,0 +1,13 @@
+D:\School\ООП\Methods- Bank Account\Methods- Bank Account\bin\Debug\netcoreapp3.1\Methods- Bank Account.exe
+D:\School\ООП\Methods- Bank Account\Methods- Bank Account\bin\Debug\netcoreapp3.1\Methods- Bank Account.deps.json
+D:\School\ООП\Methods- Bank Account\Methods- Bank Account\bin\Debug\netcoreapp3.1\Methods- Bank Account.runtimeconfig.json
+D:\School\ООП\Methods- Bank Account\Methods- Bank Account\bin\Debug\netcoreapp3.1\Methods- Bank Account.runtimeconfig.dev.json
+D:\School\ООП\Methods- Bank Account\Methods- Bank Account\bin\Debug\netcoreapp3.1\Methods- Bank Account.dll
+D:\School\ООП\Methods- Bank Account\Methods- Bank Account\bin\Debug\netcoreapp3.1\Methods- Bank Account.pdb
+D:\School\ООП\Methods- Bank Account\Methods- Bank Account\obj\Debug\netcoreapp3.1\Methods- Bank Account.csprojAssemblyReference.cache
+D:\School\ООП\Methods- Bank Account\Methods- Bank Account\obj\Debug\netcoreapp3.1\Methods- Bank Account.AssemblyInfoInputs.cache
+D:\School\ООП\Methods- Bank Account\Methods- Bank Account\obj\Debug\netcoreapp3.1\Methods- Bank Account.AssemblyInfo.cs
+D:\School\ООП\Methods- Bank Account\Methods- Bank Account\obj\Debug\netcoreapp3.1\Methods- Bank Account.csproj.CoreCompileInputs.cache
+D:\School\ООП\Methods- Bank Account\Methods- Bank Account\obj\Debug\netcoreapp3.1\Methods- Bank Account.dll
+D:\School\ООП\Methods- Bank Account\Methods- Bank Account\obj\Debug\netcoreapp3.1\Methods- Bank Account.pdb
+D:\School\ООП\Methods- Bank Account\Methods- Bank Account\obj\Debug\netcoreapp3.1\Methods- Bank Account.genruntimeconfig.cache

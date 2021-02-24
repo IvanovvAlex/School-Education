@@ -1,0 +1,13 @@
+D:\School\ООП\Scale\Scale\bin\Debug\netcoreapp3.1\Scale.exe
+D:\School\ООП\Scale\Scale\bin\Debug\netcoreapp3.1\Scale.deps.json
+D:\School\ООП\Scale\Scale\bin\Debug\netcoreapp3.1\Scale.runtimeconfig.json
+D:\School\ООП\Scale\Scale\bin\Debug\netcoreapp3.1\Scale.runtimeconfig.dev.json
+D:\School\ООП\Scale\Scale\bin\Debug\netcoreapp3.1\Scale.dll
+D:\School\ООП\Scale\Scale\bin\Debug\netcoreapp3.1\Scale.pdb
+D:\School\ООП\Scale\Scale\obj\Debug\netcoreapp3.1\Scale.csprojAssemblyReference.cache
+D:\School\ООП\Scale\Scale\obj\Debug\netcoreapp3.1\Scale.AssemblyInfoInputs.cache
+D:\School\ООП\Scale\Scale\obj\Debug\netcoreapp3.1\Scale.AssemblyInfo.cs
+D:\School\ООП\Scale\Scale\obj\Debug\netcoreapp3.1\Scale.csproj.CoreCompileInputs.cache
+D:\School\ООП\Scale\Scale\obj\Debug\netcoreapp3.1\Scale.dll
+D:\School\ООП\Scale\Scale\obj\Debug\netcoreapp3.1\Scale.pdb
+D:\School\ООП\Scale\Scale\obj\Debug\netcoreapp3.1\Scale.genruntimeconfig.cache

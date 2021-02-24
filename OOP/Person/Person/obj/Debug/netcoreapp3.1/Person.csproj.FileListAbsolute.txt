@@ -1,0 +1,13 @@
+D:\School\ООП\Person\Person\bin\Debug\netcoreapp3.1\Person.exe
+D:\School\ООП\Person\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+D:\School\ООП\Person\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+D:\School\ООП\Person\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+D:\School\ООП\Person\Person\bin\Debug\netcoreapp3.1\Person.dll
+D:\School\ООП\Person\Person\bin\Debug\netcoreapp3.1\Person.pdb
+D:\School\ООП\Person\Person\obj\Debug\netcoreapp3.1\Person.csprojAssemblyReference.cache
+D:\School\ООП\Person\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+D:\School\ООП\Person\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+D:\School\ООП\Person\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+D:\School\ООП\Person\Person\obj\Debug\netcoreapp3.1\Person.dll
+D:\School\ООП\Person\Person\obj\Debug\netcoreapp3.1\Person.pdb
+D:\School\ООП\Person\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache

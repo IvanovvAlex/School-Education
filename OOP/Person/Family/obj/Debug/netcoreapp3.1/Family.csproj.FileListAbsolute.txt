@@ -1,0 +1,13 @@
+D:\School\ООП\Person\Family\obj\Debug\netcoreapp3.1\Family.csprojAssemblyReference.cache
+D:\School\ООП\Person\Family\obj\Debug\netcoreapp3.1\Family.AssemblyInfoInputs.cache
+D:\School\ООП\Person\Family\obj\Debug\netcoreapp3.1\Family.AssemblyInfo.cs
+D:\School\ООП\Person\Family\obj\Debug\netcoreapp3.1\Family.csproj.CoreCompileInputs.cache
+D:\School\ООП\Person\Family\bin\Debug\netcoreapp3.1\Family.exe
+D:\School\ООП\Person\Family\bin\Debug\netcoreapp3.1\Family.deps.json
+D:\School\ООП\Person\Family\bin\Debug\netcoreapp3.1\Family.runtimeconfig.json
+D:\School\ООП\Person\Family\bin\Debug\netcoreapp3.1\Family.runtimeconfig.dev.json
+D:\School\ООП\Person\Family\bin\Debug\netcoreapp3.1\Family.dll
+D:\School\ООП\Person\Family\bin\Debug\netcoreapp3.1\Family.pdb
+D:\School\ООП\Person\Family\obj\Debug\netcoreapp3.1\Family.dll
+D:\School\ООП\Person\Family\obj\Debug\netcoreapp3.1\Family.pdb
+D:\School\ООП\Person\Family\obj\Debug\netcoreapp3.1\Family.genruntimeconfig.cache

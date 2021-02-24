@@ -1,0 +1,13 @@
+D:\School\ООП\Circle\bin\Debug\netcoreapp3.1\Circle.exe
+D:\School\ООП\Circle\bin\Debug\netcoreapp3.1\Circle.deps.json
+D:\School\ООП\Circle\bin\Debug\netcoreapp3.1\Circle.runtimeconfig.json
+D:\School\ООП\Circle\bin\Debug\netcoreapp3.1\Circle.runtimeconfig.dev.json
+D:\School\ООП\Circle\bin\Debug\netcoreapp3.1\Circle.dll
+D:\School\ООП\Circle\bin\Debug\netcoreapp3.1\Circle.pdb
+D:\School\ООП\Circle\obj\Debug\netcoreapp3.1\Circle.csprojAssemblyReference.cache
+D:\School\ООП\Circle\obj\Debug\netcoreapp3.1\Circle.AssemblyInfoInputs.cache
+D:\School\ООП\Circle\obj\Debug\netcoreapp3.1\Circle.AssemblyInfo.cs
+D:\School\ООП\Circle\obj\Debug\netcoreapp3.1\Circle.csproj.CoreCompileInputs.cache
+D:\School\ООП\Circle\obj\Debug\netcoreapp3.1\Circle.dll
+D:\School\ООП\Circle\obj\Debug\netcoreapp3.1\Circle.pdb
+D:\School\ООП\Circle\obj\Debug\netcoreapp3.1\Circle.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals Module\Задачи\Rectangle\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.exe
+D:\SoftUni\Fundamentals Module\Задачи\Rectangle\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.deps.json
+D:\SoftUni\Fundamentals Module\Задачи\Rectangle\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.runtimeconfig.json
+D:\SoftUni\Fundamentals Module\Задачи\Rectangle\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals Module\Задачи\Rectangle\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.dll
+D:\SoftUni\Fundamentals Module\Задачи\Rectangle\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals Module\Задачи\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.AssemblyInfo.cs
+D:\SoftUni\Fundamentals Module\Задачи\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals Module\Задачи\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.dll
+D:\SoftUni\Fundamentals Module\Задачи\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.pdb
+D:\SoftUni\Fundamentals Module\Задачи\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.genruntimeconfig.cache

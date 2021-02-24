@@ -1,0 +1,13 @@
+D:\School\ООП\Coffee\Cafe\bin\Debug\netcoreapp3.1\Cafe.exe
+D:\School\ООП\Coffee\Cafe\bin\Debug\netcoreapp3.1\Cafe.deps.json
+D:\School\ООП\Coffee\Cafe\bin\Debug\netcoreapp3.1\Cafe.runtimeconfig.json
+D:\School\ООП\Coffee\Cafe\bin\Debug\netcoreapp3.1\Cafe.runtimeconfig.dev.json
+D:\School\ООП\Coffee\Cafe\bin\Debug\netcoreapp3.1\Cafe.dll
+D:\School\ООП\Coffee\Cafe\bin\Debug\netcoreapp3.1\Cafe.pdb
+D:\School\ООП\Coffee\Cafe\obj\Debug\netcoreapp3.1\Cafe.csprojAssemblyReference.cache
+D:\School\ООП\Coffee\Cafe\obj\Debug\netcoreapp3.1\Cafe.AssemblyInfoInputs.cache
+D:\School\ООП\Coffee\Cafe\obj\Debug\netcoreapp3.1\Cafe.AssemblyInfo.cs
+D:\School\ООП\Coffee\Cafe\obj\Debug\netcoreapp3.1\Cafe.csproj.CoreCompileInputs.cache
+D:\School\ООП\Coffee\Cafe\obj\Debug\netcoreapp3.1\Cafe.dll
+D:\School\ООП\Coffee\Cafe\obj\Debug\netcoreapp3.1\Cafe.pdb
+D:\School\ООП\Coffee\Cafe\obj\Debug\netcoreapp3.1\Cafe.genruntimeconfig.cache

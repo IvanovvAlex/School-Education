@@ -1,0 +1,13 @@
+D:\School\ООП\TeamApp\TeamApp\obj\Debug\netcoreapp3.1\TeamApp.csprojAssemblyReference.cache
+D:\School\ООП\TeamApp\TeamApp\obj\Debug\netcoreapp3.1\TeamApp.AssemblyInfoInputs.cache
+D:\School\ООП\TeamApp\TeamApp\obj\Debug\netcoreapp3.1\TeamApp.AssemblyInfo.cs
+D:\School\ООП\TeamApp\TeamApp\obj\Debug\netcoreapp3.1\TeamApp.csproj.CoreCompileInputs.cache
+D:\School\ООП\TeamApp\TeamApp\bin\Debug\netcoreapp3.1\TeamApp.exe
+D:\School\ООП\TeamApp\TeamApp\bin\Debug\netcoreapp3.1\TeamApp.deps.json
+D:\School\ООП\TeamApp\TeamApp\bin\Debug\netcoreapp3.1\TeamApp.runtimeconfig.json
+D:\School\ООП\TeamApp\TeamApp\bin\Debug\netcoreapp3.1\TeamApp.runtimeconfig.dev.json
+D:\School\ООП\TeamApp\TeamApp\bin\Debug\netcoreapp3.1\TeamApp.dll
+D:\School\ООП\TeamApp\TeamApp\bin\Debug\netcoreapp3.1\TeamApp.pdb
+D:\School\ООП\TeamApp\TeamApp\obj\Debug\netcoreapp3.1\TeamApp.dll
+D:\School\ООП\TeamApp\TeamApp\obj\Debug\netcoreapp3.1\TeamApp.pdb
+D:\School\ООП\TeamApp\TeamApp\obj\Debug\netcoreapp3.1\TeamApp.genruntimeconfig.cache

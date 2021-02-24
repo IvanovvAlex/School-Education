@@ -1,0 +1,13 @@
+D:\School\ООП\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.exe
+D:\School\ООП\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.deps.json
+D:\School\ООП\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.json
+D:\School\ООП\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.dev.json
+D:\School\ООП\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.dll
+D:\School\ООП\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.pdb
+D:\School\ООП\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csprojAssemblyReference.cache
+D:\School\ООП\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+D:\School\ООП\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+D:\School\ООП\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.CoreCompileInputs.cache
+D:\School\ООП\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.dll
+D:\School\ООП\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.pdb
+D:\School\ООП\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.genruntimeconfig.cache
