@@ -1,0 +1,13 @@
+D:\School\School-Education\MathFundamentalsInProgramming\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.exe
+D:\School\School-Education\MathFundamentalsInProgramming\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.deps.json
+D:\School\School-Education\MathFundamentalsInProgramming\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.json
+D:\School\School-Education\MathFundamentalsInProgramming\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.dev.json
+D:\School\School-Education\MathFundamentalsInProgramming\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.dll
+D:\School\School-Education\MathFundamentalsInProgramming\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.pdb
+D:\School\School-Education\MathFundamentalsInProgramming\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.csprojAssemblyReference.cache
+D:\School\School-Education\MathFundamentalsInProgramming\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfoInputs.cache
+D:\School\School-Education\MathFundamentalsInProgramming\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfo.cs
+D:\School\School-Education\MathFundamentalsInProgramming\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.csproj.CoreCompileInputs.cache
+D:\School\School-Education\MathFundamentalsInProgramming\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.dll
+D:\School\School-Education\MathFundamentalsInProgramming\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.pdb
+D:\School\School-Education\MathFundamentalsInProgramming\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.genruntimeconfig.cache
