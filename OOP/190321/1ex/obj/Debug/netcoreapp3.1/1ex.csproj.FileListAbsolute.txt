@@ -1,0 +1,13 @@
+D:\School\School-Education\OOP\190321\1ex\bin\Debug\netcoreapp3.1\1ex.exe
+D:\School\School-Education\OOP\190321\1ex\bin\Debug\netcoreapp3.1\1ex.deps.json
+D:\School\School-Education\OOP\190321\1ex\bin\Debug\netcoreapp3.1\1ex.runtimeconfig.json
+D:\School\School-Education\OOP\190321\1ex\bin\Debug\netcoreapp3.1\1ex.runtimeconfig.dev.json
+D:\School\School-Education\OOP\190321\1ex\bin\Debug\netcoreapp3.1\1ex.dll
+D:\School\School-Education\OOP\190321\1ex\bin\Debug\netcoreapp3.1\1ex.pdb
+D:\School\School-Education\OOP\190321\1ex\obj\Debug\netcoreapp3.1\1ex.csprojAssemblyReference.cache
+D:\School\School-Education\OOP\190321\1ex\obj\Debug\netcoreapp3.1\1ex.AssemblyInfoInputs.cache
+D:\School\School-Education\OOP\190321\1ex\obj\Debug\netcoreapp3.1\1ex.AssemblyInfo.cs
+D:\School\School-Education\OOP\190321\1ex\obj\Debug\netcoreapp3.1\1ex.csproj.CoreCompileInputs.cache
+D:\School\School-Education\OOP\190321\1ex\obj\Debug\netcoreapp3.1\1ex.dll
+D:\School\School-Education\OOP\190321\1ex\obj\Debug\netcoreapp3.1\1ex.pdb
+D:\School\School-Education\OOP\190321\1ex\obj\Debug\netcoreapp3.1\1ex.genruntimeconfig.cache
