@@ -1,0 +1,7 @@
+C:\Users\alexivanov2003\Desktop\RabotaSMasiv\RabotaSMasiv\bin\Debug\RabotaSMasiv.exe.config
+C:\Users\alexivanov2003\Desktop\RabotaSMasiv\RabotaSMasiv\bin\Debug\RabotaSMasiv.exe
+C:\Users\alexivanov2003\Desktop\RabotaSMasiv\RabotaSMasiv\bin\Debug\RabotaSMasiv.pdb
+C:\Users\alexivanov2003\Desktop\RabotaSMasiv\RabotaSMasiv\obj\Debug\RabotaSMasiv.csprojAssemblyReference.cache
+C:\Users\alexivanov2003\Desktop\RabotaSMasiv\RabotaSMasiv\obj\Debug\RabotaSMasiv.csproj.CoreCompileInputs.cache
+C:\Users\alexivanov2003\Desktop\RabotaSMasiv\RabotaSMasiv\obj\Debug\RabotaSMasiv.exe
+C:\Users\alexivanov2003\Desktop\RabotaSMasiv\RabotaSMasiv\obj\Debug\RabotaSMasiv.pdb
