@@ -1,0 +1,13 @@
+D:\School\School-Education\OOP\260321\04SelectionSortDescendingOrder\bin\Debug\netcoreapp3.1\04SelectionSortDescendingOrder.exe
+D:\School\School-Education\OOP\260321\04SelectionSortDescendingOrder\bin\Debug\netcoreapp3.1\04SelectionSortDescendingOrder.deps.json
+D:\School\School-Education\OOP\260321\04SelectionSortDescendingOrder\bin\Debug\netcoreapp3.1\04SelectionSortDescendingOrder.runtimeconfig.json
+D:\School\School-Education\OOP\260321\04SelectionSortDescendingOrder\bin\Debug\netcoreapp3.1\04SelectionSortDescendingOrder.runtimeconfig.dev.json
+D:\School\School-Education\OOP\260321\04SelectionSortDescendingOrder\bin\Debug\netcoreapp3.1\04SelectionSortDescendingOrder.dll
+D:\School\School-Education\OOP\260321\04SelectionSortDescendingOrder\bin\Debug\netcoreapp3.1\04SelectionSortDescendingOrder.pdb
+D:\School\School-Education\OOP\260321\04SelectionSortDescendingOrder\obj\Debug\netcoreapp3.1\04SelectionSortDescendingOrder.csprojAssemblyReference.cache
+D:\School\School-Education\OOP\260321\04SelectionSortDescendingOrder\obj\Debug\netcoreapp3.1\04SelectionSortDescendingOrder.AssemblyInfoInputs.cache
+D:\School\School-Education\OOP\260321\04SelectionSortDescendingOrder\obj\Debug\netcoreapp3.1\04SelectionSortDescendingOrder.AssemblyInfo.cs
+D:\School\School-Education\OOP\260321\04SelectionSortDescendingOrder\obj\Debug\netcoreapp3.1\04SelectionSortDescendingOrder.csproj.CoreCompileInputs.cache
+D:\School\School-Education\OOP\260321\04SelectionSortDescendingOrder\obj\Debug\netcoreapp3.1\04SelectionSortDescendingOrder.dll
+D:\School\School-Education\OOP\260321\04SelectionSortDescendingOrder\obj\Debug\netcoreapp3.1\04SelectionSortDescendingOrder.pdb
+D:\School\School-Education\OOP\260321\04SelectionSortDescendingOrder\obj\Debug\netcoreapp3.1\04SelectionSortDescendingOrder.genruntimeconfig.cache

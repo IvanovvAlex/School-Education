@@ -1,0 +1,12 @@
+D:\School\School-Education\OOP\260321\01BubbleSortAscendingOrder\bin\Debug\netcoreapp3.1\01BubbleSortAscendingOrder.exe
+D:\School\School-Education\OOP\260321\01BubbleSortAscendingOrder\bin\Debug\netcoreapp3.1\01BubbleSortAscendingOrder.deps.json
+D:\School\School-Education\OOP\260321\01BubbleSortAscendingOrder\bin\Debug\netcoreapp3.1\01BubbleSortAscendingOrder.runtimeconfig.json
+D:\School\School-Education\OOP\260321\01BubbleSortAscendingOrder\bin\Debug\netcoreapp3.1\01BubbleSortAscendingOrder.runtimeconfig.dev.json
+D:\School\School-Education\OOP\260321\01BubbleSortAscendingOrder\bin\Debug\netcoreapp3.1\01BubbleSortAscendingOrder.dll
+D:\School\School-Education\OOP\260321\01BubbleSortAscendingOrder\bin\Debug\netcoreapp3.1\01BubbleSortAscendingOrder.pdb
+D:\School\School-Education\OOP\260321\01BubbleSortAscendingOrder\obj\Debug\netcoreapp3.1\01BubbleSortAscendingOrder.AssemblyInfoInputs.cache
+D:\School\School-Education\OOP\260321\01BubbleSortAscendingOrder\obj\Debug\netcoreapp3.1\01BubbleSortAscendingOrder.AssemblyInfo.cs
+D:\School\School-Education\OOP\260321\01BubbleSortAscendingOrder\obj\Debug\netcoreapp3.1\01BubbleSortAscendingOrder.csproj.CoreCompileInputs.cache
+D:\School\School-Education\OOP\260321\01BubbleSortAscendingOrder\obj\Debug\netcoreapp3.1\01BubbleSortAscendingOrder.dll
+D:\School\School-Education\OOP\260321\01BubbleSortAscendingOrder\obj\Debug\netcoreapp3.1\01BubbleSortAscendingOrder.pdb
+D:\School\School-Education\OOP\260321\01BubbleSortAscendingOrder\obj\Debug\netcoreapp3.1\01BubbleSortAscendingOrder.genruntimeconfig.cache

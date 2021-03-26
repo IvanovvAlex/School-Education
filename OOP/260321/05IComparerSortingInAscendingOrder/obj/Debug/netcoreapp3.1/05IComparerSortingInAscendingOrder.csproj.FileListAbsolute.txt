@@ -1,0 +1,12 @@
+D:\School\School-Education\OOP\260321\05IComparerSortingInAscendingOrder\bin\Debug\netcoreapp3.1\05IComparerSortingInAscendingOrder.exe
+D:\School\School-Education\OOP\260321\05IComparerSortingInAscendingOrder\bin\Debug\netcoreapp3.1\05IComparerSortingInAscendingOrder.deps.json
+D:\School\School-Education\OOP\260321\05IComparerSortingInAscendingOrder\bin\Debug\netcoreapp3.1\05IComparerSortingInAscendingOrder.runtimeconfig.json
+D:\School\School-Education\OOP\260321\05IComparerSortingInAscendingOrder\bin\Debug\netcoreapp3.1\05IComparerSortingInAscendingOrder.runtimeconfig.dev.json
+D:\School\School-Education\OOP\260321\05IComparerSortingInAscendingOrder\bin\Debug\netcoreapp3.1\05IComparerSortingInAscendingOrder.dll
+D:\School\School-Education\OOP\260321\05IComparerSortingInAscendingOrder\bin\Debug\netcoreapp3.1\05IComparerSortingInAscendingOrder.pdb
+D:\School\School-Education\OOP\260321\05IComparerSortingInAscendingOrder\obj\Debug\netcoreapp3.1\05IComparerSortingInAscendingOrder.AssemblyInfoInputs.cache
+D:\School\School-Education\OOP\260321\05IComparerSortingInAscendingOrder\obj\Debug\netcoreapp3.1\05IComparerSortingInAscendingOrder.AssemblyInfo.cs
+D:\School\School-Education\OOP\260321\05IComparerSortingInAscendingOrder\obj\Debug\netcoreapp3.1\05IComparerSortingInAscendingOrder.csproj.CoreCompileInputs.cache
+D:\School\School-Education\OOP\260321\05IComparerSortingInAscendingOrder\obj\Debug\netcoreapp3.1\05IComparerSortingInAscendingOrder.dll
+D:\School\School-Education\OOP\260321\05IComparerSortingInAscendingOrder\obj\Debug\netcoreapp3.1\05IComparerSortingInAscendingOrder.pdb
+D:\School\School-Education\OOP\260321\05IComparerSortingInAscendingOrder\obj\Debug\netcoreapp3.1\05IComparerSortingInAscendingOrder.genruntimeconfig.cache
