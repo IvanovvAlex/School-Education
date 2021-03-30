@@ -1,0 +1,6 @@
+D:\School\School-Education\SoftwareDevelopment\04.10.Кога-е-нужна-преработка-на-кода-Упражнения\Matrica\bin\Debug\GameFifteen.exe
+D:\School\School-Education\SoftwareDevelopment\04.10.Кога-е-нужна-преработка-на-кода-Упражнения\Matrica\bin\Debug\GameFifteen.pdb
+D:\School\School-Education\SoftwareDevelopment\04.10.Кога-е-нужна-преработка-на-кода-Упражнения\Matrica\obj\x86\Debug\Matrica.csprojAssemblyReference.cache
+D:\School\School-Education\SoftwareDevelopment\04.10.Кога-е-нужна-преработка-на-кода-Упражнения\Matrica\obj\x86\Debug\Matrica.csproj.CoreCompileInputs.cache
+D:\School\School-Education\SoftwareDevelopment\04.10.Кога-е-нужна-преработка-на-кода-Упражнения\Matrica\obj\x86\Debug\GameFifteen.exe
+D:\School\School-Education\SoftwareDevelopment\04.10.Кога-е-нужна-преработка-на-кода-Упражнения\Matrica\obj\x86\Debug\GameFifteen.pdb
