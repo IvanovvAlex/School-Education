@@ -1,0 +1,15 @@
+D:\School\School-Education\OOP\FormAppsEx\SickCountInRuseEx\bin\Debug\netcoreapp3.1\SickCountInRuseEx.exe
+D:\School\School-Education\OOP\FormAppsEx\SickCountInRuseEx\bin\Debug\netcoreapp3.1\SickCountInRuseEx.deps.json
+D:\School\School-Education\OOP\FormAppsEx\SickCountInRuseEx\bin\Debug\netcoreapp3.1\SickCountInRuseEx.runtimeconfig.json
+D:\School\School-Education\OOP\FormAppsEx\SickCountInRuseEx\bin\Debug\netcoreapp3.1\SickCountInRuseEx.runtimeconfig.dev.json
+D:\School\School-Education\OOP\FormAppsEx\SickCountInRuseEx\bin\Debug\netcoreapp3.1\SickCountInRuseEx.dll
+D:\School\School-Education\OOP\FormAppsEx\SickCountInRuseEx\bin\Debug\netcoreapp3.1\SickCountInRuseEx.pdb
+D:\School\School-Education\OOP\FormAppsEx\SickCountInRuseEx\obj\Debug\netcoreapp3.1\SickCountInRuseEx.csprojAssemblyReference.cache
+D:\School\School-Education\OOP\FormAppsEx\SickCountInRuseEx\obj\Debug\netcoreapp3.1\SickCountInRuseEx.sickk.resources
+D:\School\School-Education\OOP\FormAppsEx\SickCountInRuseEx\obj\Debug\netcoreapp3.1\SickCountInRuseEx.csproj.GenerateResource.cache
+D:\School\School-Education\OOP\FormAppsEx\SickCountInRuseEx\obj\Debug\netcoreapp3.1\SickCountInRuseEx.AssemblyInfoInputs.cache
+D:\School\School-Education\OOP\FormAppsEx\SickCountInRuseEx\obj\Debug\netcoreapp3.1\SickCountInRuseEx.AssemblyInfo.cs
+D:\School\School-Education\OOP\FormAppsEx\SickCountInRuseEx\obj\Debug\netcoreapp3.1\SickCountInRuseEx.csproj.CoreCompileInputs.cache
+D:\School\School-Education\OOP\FormAppsEx\SickCountInRuseEx\obj\Debug\netcoreapp3.1\SickCountInRuseEx.dll
+D:\School\School-Education\OOP\FormAppsEx\SickCountInRuseEx\obj\Debug\netcoreapp3.1\SickCountInRuseEx.pdb
+D:\School\School-Education\OOP\FormAppsEx\SickCountInRuseEx\obj\Debug\netcoreapp3.1\SickCountInRuseEx.genruntimeconfig.cache
