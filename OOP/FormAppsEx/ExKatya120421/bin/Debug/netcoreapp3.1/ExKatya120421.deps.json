@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExKatya120421/1.0.0": {
+        "runtime": {
+          "ExKatya120421.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExKatya120421/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
