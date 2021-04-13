@@ -1,0 +1,16 @@
+D:\School\School-Education\OOP\FormAppsEx\ExKatya120421\bin\Debug\netcoreapp3.1\ExKatya120421.exe
+D:\School\School-Education\OOP\FormAppsEx\ExKatya120421\bin\Debug\netcoreapp3.1\ExKatya120421.deps.json
+D:\School\School-Education\OOP\FormAppsEx\ExKatya120421\bin\Debug\netcoreapp3.1\ExKatya120421.runtimeconfig.json
+D:\School\School-Education\OOP\FormAppsEx\ExKatya120421\bin\Debug\netcoreapp3.1\ExKatya120421.runtimeconfig.dev.json
+D:\School\School-Education\OOP\FormAppsEx\ExKatya120421\bin\Debug\netcoreapp3.1\ExKatya120421.dll
+D:\School\School-Education\OOP\FormAppsEx\ExKatya120421\bin\Debug\netcoreapp3.1\ExKatya120421.pdb
+D:\School\School-Education\OOP\FormAppsEx\ExKatya120421\obj\Debug\netcoreapp3.1\ExKatya120421.csprojAssemblyReference.cache
+D:\School\School-Education\OOP\FormAppsEx\ExKatya120421\obj\Debug\netcoreapp3.1\ExKatya120421.MyFirstForm.resources
+D:\School\School-Education\OOP\FormAppsEx\ExKatya120421\obj\Debug\netcoreapp3.1\ExKatya120421.csproj.GenerateResource.cache
+D:\School\School-Education\OOP\FormAppsEx\ExKatya120421\obj\Debug\netcoreapp3.1\ExKatya120421.AssemblyInfoInputs.cache
+D:\School\School-Education\OOP\FormAppsEx\ExKatya120421\obj\Debug\netcoreapp3.1\ExKatya120421.AssemblyInfo.cs
+D:\School\School-Education\OOP\FormAppsEx\ExKatya120421\obj\Debug\netcoreapp3.1\ExKatya120421.csproj.CoreCompileInputs.cache
+D:\School\School-Education\OOP\FormAppsEx\ExKatya120421\obj\Debug\netcoreapp3.1\ExKatya120421.dll
+D:\School\School-Education\OOP\FormAppsEx\ExKatya120421\obj\Debug\netcoreapp3.1\ExKatya120421.pdb
+D:\School\School-Education\OOP\FormAppsEx\ExKatya120421\obj\Debug\netcoreapp3.1\ExKatya120421.genruntimeconfig.cache
+D:\School\School-Education\OOP\FormAppsEx\ExKatya120421\obj\Debug\netcoreapp3.1\ExKatya120421.Properties.Resources.resources
