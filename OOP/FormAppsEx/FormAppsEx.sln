@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExKatya120421", "ExKatya120421\ExKatya120421.csproj", "{B8E2B003-8C12-4699-814A-A4C38EE3CFD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SickCountInRuseEx", "SickCountInRuseEx\SickCountInRuseEx.csproj", "{9112976E-6E4A-4B2C-80E4-B973CF67AD0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SickCountInRuseEx", "SickCountInRuseEx\SickCountInRuseEx.csproj", "{9112976E-6E4A-4B2C-80E4-B973CF67AD0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveMethodEx", "RecursiveMethodEx\RecursiveMethodEx.csproj", "{ED93A34D-C27B-4D37-979F-4D4A48AE6D92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9112976E-6E4A-4B2C-80E4-B973CF67AD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9112976E-6E4A-4B2C-80E4-B973CF67AD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9112976E-6E4A-4B2C-80E4-B973CF67AD0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED93A34D-C27B-4D37-979F-4D4A48AE6D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED93A34D-C27B-4D37-979F-4D4A48AE6D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED93A34D-C27B-4D37-979F-4D4A48AE6D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED93A34D-C27B-4D37-979F-4D4A48AE6D92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
