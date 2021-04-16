@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\StatisticalInformation\StatisticalInformation\bin\Debug\StatisticalInformation.exe.config
+C:\Users\PC\source\repos\StatisticalInformation\StatisticalInformation\bin\Debug\StatisticalInformation.exe
+C:\Users\PC\source\repos\StatisticalInformation\StatisticalInformation\bin\Debug\StatisticalInformation.pdb
+C:\Users\PC\source\repos\StatisticalInformation\StatisticalInformation\obj\Debug\StatisticalInformation.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\StatisticalInformation\StatisticalInformation\obj\Debug\StatisticalInformation.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\StatisticalInformation\StatisticalInformation\obj\Debug\StatisticalInformation.exe
+C:\Users\PC\source\repos\StatisticalInformation\StatisticalInformation\obj\Debug\StatisticalInformation.pdb

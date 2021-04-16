@@ -1,0 +1,13 @@
+D:\School\School-Education\CompetitiveProgramming\Homework150421\Homework150421\bin\Debug\netcoreapp3.1\Homework150421.exe
+D:\School\School-Education\CompetitiveProgramming\Homework150421\Homework150421\bin\Debug\netcoreapp3.1\Homework150421.deps.json
+D:\School\School-Education\CompetitiveProgramming\Homework150421\Homework150421\bin\Debug\netcoreapp3.1\Homework150421.runtimeconfig.json
+D:\School\School-Education\CompetitiveProgramming\Homework150421\Homework150421\bin\Debug\netcoreapp3.1\Homework150421.runtimeconfig.dev.json
+D:\School\School-Education\CompetitiveProgramming\Homework150421\Homework150421\bin\Debug\netcoreapp3.1\Homework150421.dll
+D:\School\School-Education\CompetitiveProgramming\Homework150421\Homework150421\bin\Debug\netcoreapp3.1\Homework150421.pdb
+D:\School\School-Education\CompetitiveProgramming\Homework150421\Homework150421\obj\Debug\netcoreapp3.1\Homework150421.csprojAssemblyReference.cache
+D:\School\School-Education\CompetitiveProgramming\Homework150421\Homework150421\obj\Debug\netcoreapp3.1\Homework150421.AssemblyInfoInputs.cache
+D:\School\School-Education\CompetitiveProgramming\Homework150421\Homework150421\obj\Debug\netcoreapp3.1\Homework150421.AssemblyInfo.cs
+D:\School\School-Education\CompetitiveProgramming\Homework150421\Homework150421\obj\Debug\netcoreapp3.1\Homework150421.csproj.CoreCompileInputs.cache
+D:\School\School-Education\CompetitiveProgramming\Homework150421\Homework150421\obj\Debug\netcoreapp3.1\Homework150421.dll
+D:\School\School-Education\CompetitiveProgramming\Homework150421\Homework150421\obj\Debug\netcoreapp3.1\Homework150421.pdb
+D:\School\School-Education\CompetitiveProgramming\Homework150421\Homework150421\obj\Debug\netcoreapp3.1\Homework150421.genruntimeconfig.cache

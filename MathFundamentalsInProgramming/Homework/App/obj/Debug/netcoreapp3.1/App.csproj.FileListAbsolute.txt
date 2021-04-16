@@ -1,0 +1,13 @@
+D:\School\School-Education\MathFundamentalsInProgramming\Homework\App\bin\Debug\netcoreapp3.1\App.exe
+D:\School\School-Education\MathFundamentalsInProgramming\Homework\App\bin\Debug\netcoreapp3.1\App.deps.json
+D:\School\School-Education\MathFundamentalsInProgramming\Homework\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+D:\School\School-Education\MathFundamentalsInProgramming\Homework\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+D:\School\School-Education\MathFundamentalsInProgramming\Homework\App\bin\Debug\netcoreapp3.1\App.dll
+D:\School\School-Education\MathFundamentalsInProgramming\Homework\App\bin\Debug\netcoreapp3.1\App.pdb
+D:\School\School-Education\MathFundamentalsInProgramming\Homework\App\obj\Debug\netcoreapp3.1\App.csprojAssemblyReference.cache
+D:\School\School-Education\MathFundamentalsInProgramming\Homework\App\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+D:\School\School-Education\MathFundamentalsInProgramming\Homework\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+D:\School\School-Education\MathFundamentalsInProgramming\Homework\App\obj\Debug\netcoreapp3.1\App.csproj.CoreCompileInputs.cache
+D:\School\School-Education\MathFundamentalsInProgramming\Homework\App\obj\Debug\netcoreapp3.1\App.dll
+D:\School\School-Education\MathFundamentalsInProgramming\Homework\App\obj\Debug\netcoreapp3.1\App.pdb
+D:\School\School-Education\MathFundamentalsInProgramming\Homework\App\obj\Debug\netcoreapp3.1\App.genruntimeconfig.cache
