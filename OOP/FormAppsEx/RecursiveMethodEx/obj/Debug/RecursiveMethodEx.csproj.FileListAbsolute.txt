@@ -1,0 +1,10 @@
+D:\School\School-Education\OOP\FormAppsEx\RecursiveMethodEx\bin\Debug\RecursiveMethodEx.exe.config
+D:\School\School-Education\OOP\FormAppsEx\RecursiveMethodEx\bin\Debug\RecursiveMethodEx.exe
+D:\School\School-Education\OOP\FormAppsEx\RecursiveMethodEx\bin\Debug\RecursiveMethodEx.pdb
+D:\School\School-Education\OOP\FormAppsEx\RecursiveMethodEx\obj\Debug\RecursiveMethodEx.csprojAssemblyReference.cache
+D:\School\School-Education\OOP\FormAppsEx\RecursiveMethodEx\obj\Debug\RecursiveMethodEx.Form1.resources
+D:\School\School-Education\OOP\FormAppsEx\RecursiveMethodEx\obj\Debug\RecursiveMethodEx.Properties.Resources.resources
+D:\School\School-Education\OOP\FormAppsEx\RecursiveMethodEx\obj\Debug\RecursiveMethodEx.csproj.GenerateResource.cache
+D:\School\School-Education\OOP\FormAppsEx\RecursiveMethodEx\obj\Debug\RecursiveMethodEx.csproj.CoreCompileInputs.cache
+D:\School\School-Education\OOP\FormAppsEx\RecursiveMethodEx\obj\Debug\RecursiveMethodEx.exe
+D:\School\School-Education\OOP\FormAppsEx\RecursiveMethodEx\obj\Debug\RecursiveMethodEx.pdb
