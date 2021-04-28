@@ -1,0 +1,13 @@
+D:\School\School-Education\OOP\Ex\str42\bin\Debug\netcoreapp3.1\str42.exe
+D:\School\School-Education\OOP\Ex\str42\bin\Debug\netcoreapp3.1\str42.deps.json
+D:\School\School-Education\OOP\Ex\str42\bin\Debug\netcoreapp3.1\str42.runtimeconfig.json
+D:\School\School-Education\OOP\Ex\str42\bin\Debug\netcoreapp3.1\str42.runtimeconfig.dev.json
+D:\School\School-Education\OOP\Ex\str42\bin\Debug\netcoreapp3.1\str42.dll
+D:\School\School-Education\OOP\Ex\str42\bin\Debug\netcoreapp3.1\str42.pdb
+D:\School\School-Education\OOP\Ex\str42\obj\Debug\netcoreapp3.1\str42.csprojAssemblyReference.cache
+D:\School\School-Education\OOP\Ex\str42\obj\Debug\netcoreapp3.1\str42.AssemblyInfoInputs.cache
+D:\School\School-Education\OOP\Ex\str42\obj\Debug\netcoreapp3.1\str42.AssemblyInfo.cs
+D:\School\School-Education\OOP\Ex\str42\obj\Debug\netcoreapp3.1\str42.csproj.CoreCompileInputs.cache
+D:\School\School-Education\OOP\Ex\str42\obj\Debug\netcoreapp3.1\str42.dll
+D:\School\School-Education\OOP\Ex\str42\obj\Debug\netcoreapp3.1\str42.pdb
+D:\School\School-Education\OOP\Ex\str42\obj\Debug\netcoreapp3.1\str42.genruntimeconfig.cache
