@@ -1,0 +1,13 @@
+D:\School\School-Education\OOP\07052021\str53-zad3\bin\Debug\netcoreapp3.1\str53-zad3.exe
+D:\School\School-Education\OOP\07052021\str53-zad3\bin\Debug\netcoreapp3.1\str53-zad3.deps.json
+D:\School\School-Education\OOP\07052021\str53-zad3\bin\Debug\netcoreapp3.1\str53-zad3.runtimeconfig.json
+D:\School\School-Education\OOP\07052021\str53-zad3\bin\Debug\netcoreapp3.1\str53-zad3.runtimeconfig.dev.json
+D:\School\School-Education\OOP\07052021\str53-zad3\bin\Debug\netcoreapp3.1\str53-zad3.dll
+D:\School\School-Education\OOP\07052021\str53-zad3\bin\Debug\netcoreapp3.1\str53-zad3.pdb
+D:\School\School-Education\OOP\07052021\str53-zad3\obj\Debug\netcoreapp3.1\str53-zad3.csprojAssemblyReference.cache
+D:\School\School-Education\OOP\07052021\str53-zad3\obj\Debug\netcoreapp3.1\str53-zad3.AssemblyInfoInputs.cache
+D:\School\School-Education\OOP\07052021\str53-zad3\obj\Debug\netcoreapp3.1\str53-zad3.AssemblyInfo.cs
+D:\School\School-Education\OOP\07052021\str53-zad3\obj\Debug\netcoreapp3.1\str53-zad3.csproj.CoreCompileInputs.cache
+D:\School\School-Education\OOP\07052021\str53-zad3\obj\Debug\netcoreapp3.1\str53-zad3.dll
+D:\School\School-Education\OOP\07052021\str53-zad3\obj\Debug\netcoreapp3.1\str53-zad3.pdb
+D:\School\School-Education\OOP\07052021\str53-zad3\obj\Debug\netcoreapp3.1\str53-zad3.genruntimeconfig.cache
