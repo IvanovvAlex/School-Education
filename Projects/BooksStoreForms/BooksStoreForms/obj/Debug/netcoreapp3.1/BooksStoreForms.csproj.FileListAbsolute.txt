@@ -1,0 +1,15 @@
+D:\School\School-Education\Projects\BooksStoreForms\BooksStoreForms\bin\Debug\netcoreapp3.1\BooksStoreForms.exe
+D:\School\School-Education\Projects\BooksStoreForms\BooksStoreForms\bin\Debug\netcoreapp3.1\BooksStoreForms.deps.json
+D:\School\School-Education\Projects\BooksStoreForms\BooksStoreForms\bin\Debug\netcoreapp3.1\BooksStoreForms.runtimeconfig.json
+D:\School\School-Education\Projects\BooksStoreForms\BooksStoreForms\bin\Debug\netcoreapp3.1\BooksStoreForms.runtimeconfig.dev.json
+D:\School\School-Education\Projects\BooksStoreForms\BooksStoreForms\bin\Debug\netcoreapp3.1\BooksStoreForms.dll
+D:\School\School-Education\Projects\BooksStoreForms\BooksStoreForms\bin\Debug\netcoreapp3.1\BooksStoreForms.pdb
+D:\School\School-Education\Projects\BooksStoreForms\BooksStoreForms\obj\Debug\netcoreapp3.1\BooksStoreForms.csprojAssemblyReference.cache
+D:\School\School-Education\Projects\BooksStoreForms\BooksStoreForms\obj\Debug\netcoreapp3.1\BooksStoreForms.Form1.resources
+D:\School\School-Education\Projects\BooksStoreForms\BooksStoreForms\obj\Debug\netcoreapp3.1\BooksStoreForms.csproj.GenerateResource.cache
+D:\School\School-Education\Projects\BooksStoreForms\BooksStoreForms\obj\Debug\netcoreapp3.1\BooksStoreForms.AssemblyInfoInputs.cache
+D:\School\School-Education\Projects\BooksStoreForms\BooksStoreForms\obj\Debug\netcoreapp3.1\BooksStoreForms.AssemblyInfo.cs
+D:\School\School-Education\Projects\BooksStoreForms\BooksStoreForms\obj\Debug\netcoreapp3.1\BooksStoreForms.csproj.CoreCompileInputs.cache
+D:\School\School-Education\Projects\BooksStoreForms\BooksStoreForms\obj\Debug\netcoreapp3.1\BooksStoreForms.dll
+D:\School\School-Education\Projects\BooksStoreForms\BooksStoreForms\obj\Debug\netcoreapp3.1\BooksStoreForms.pdb
+D:\School\School-Education\Projects\BooksStoreForms\BooksStoreForms\obj\Debug\netcoreapp3.1\BooksStoreForms.genruntimeconfig.cache
