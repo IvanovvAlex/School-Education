@@ -6,12 +6,15 @@
     using BookStoreConsoleApp.IO.Contracts;
     using BookStoreConsoleApp.Core.Contracts;
     using BookStoreConsoleApp.Models;
+    using Microsoft.Data.SqlClient;
 
     public class Engine : IEngine
     {
         private IWriter writer;
         private IReader reader;
-        private Controller controller;
+        internal static SqlConnection con = new SqlConnection("Data Source=DESKTOP-3U20D3B;Initial Catalog=BookStoreDB;Integrated Security=True");
+        internal static SqlCommand cmd;
+
 
         public Engine()
         {
@@ -44,13 +47,13 @@
                                 Controller.Create(db);
                                 break;
                             case ".read":
-                                Controller.Read();
+                                Controller.Read(db);
                                 break;
                             case ".update":
-                                Controller.Update();
+                                Controller.Update(db);
                                 break;
                             case ".delete":
-                                Controller.Delete();
+                                Controller.Delete(db);
                                 break;
                             default:
                                 writer.WriteLine(Utilities.Messages.ExceptionMessages.IncorrectInputMessege);
@@ -59,8 +62,8 @@
                     }
                     catch (Exception ex)
                     {
-                        throw ex;
-                        //writer.WriteLine(ex.Message);
+                        //throw ex;
+                        writer.WriteLine(ex.Message);
                     }
                     
                 }
