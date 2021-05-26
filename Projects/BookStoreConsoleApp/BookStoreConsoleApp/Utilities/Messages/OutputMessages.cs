@@ -12,5 +12,6 @@
             ".delete- delete item from the table\r\n" +
             ".exit- stop program\r\n";
         public const string InfoStringForTable = "Choose which table you want to use (Authors, Genres or Books): ";
+        public const string Successful = "Successful operation ";
     }
 }

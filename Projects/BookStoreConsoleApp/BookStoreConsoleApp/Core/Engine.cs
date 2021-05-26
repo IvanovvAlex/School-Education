@@ -55,6 +55,9 @@
                             case ".delete":
                                 Controller.Delete(db);
                                 break;
+                            case ".filter":
+                                Controller.Filter(db);
+                                break;
                             default:
                                 writer.WriteLine(Utilities.Messages.ExceptionMessages.IncorrectInputMessege);
                                 break;
