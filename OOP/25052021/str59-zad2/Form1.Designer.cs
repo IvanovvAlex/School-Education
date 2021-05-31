@@ -32,68 +32,73 @@ namespace str59_zad2
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
+            this.nLabel = new System.Windows.Forms.Label();
+            this.mLabel = new System.Windows.Forms.Label();
+            this.titleLable = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(70, 73);
+            this.textBox1.Location = new System.Drawing.Point(59, 49);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(47, 23);
+            this.textBox1.Size = new System.Drawing.Size(29, 23);
             this.textBox1.TabIndex = 0;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(175, 72);
+            this.textBox2.Location = new System.Drawing.Point(186, 49);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(63, 23);
+            this.textBox2.Size = new System.Drawing.Size(29, 23);
             this.textBox2.TabIndex = 1;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(334, 72);
+            this.button1.Location = new System.Drawing.Point(295, 48);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 2;
-            this.button1.Text = "button1";
+            this.button1.Text = "CREATE";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // textBox3
+            // nLabel
             // 
-            this.textBox3.Location = new System.Drawing.Point(255, 113);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(100, 23);
-            this.textBox3.TabIndex = 3;
+            this.nLabel.AutoSize = true;
+            this.nLabel.Location = new System.Drawing.Point(37, 52);
+            this.nLabel.Name = "nLabel";
+            this.nLabel.Size = new System.Drawing.Size(16, 15);
+            this.nLabel.TabIndex = 3;
+            this.nLabel.Text = "N";
             // 
-            // button2
+            // mLabel
             // 
-            this.button2.Location = new System.Drawing.Point(381, 112);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(28, 23);
-            this.button2.TabIndex = 4;
-            this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
+            this.mLabel.AutoSize = true;
+            this.mLabel.Location = new System.Drawing.Point(164, 52);
+            this.mLabel.Name = "mLabel";
+            this.mLabel.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.mLabel.Size = new System.Drawing.Size(18, 15);
+            this.mLabel.TabIndex = 4;
+            this.mLabel.Text = "M";
             // 
-            // button3
+            // titleLable
             // 
-            this.button3.Location = new System.Drawing.Point(334, 161);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
-            this.button3.TabIndex = 5;
-            this.button3.Text = "button3";
-            this.button3.UseVisualStyleBackColor = true;
+            this.titleLable.AutoSize = true;
+            this.titleLable.Location = new System.Drawing.Point(152, 18);
+            this.titleLable.Name = "titleLable";
+            this.titleLable.Size = new System.Drawing.Size(91, 15);
+            this.titleLable.TabIndex = 5;
+            this.titleLable.Text = "Dynamic Matrix";
+            this.titleLable.Click += new System.EventHandler(this.label1_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(421, 393);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.titleLable);
+            this.Controls.Add(this.mLabel);
+            this.Controls.Add(this.nLabel);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
@@ -110,9 +115,9 @@ namespace str59_zad2
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Label nLabel;
+        private System.Windows.Forms.Label mLabel;
+        private System.Windows.Forms.Label titleLable;
     }
 }
 

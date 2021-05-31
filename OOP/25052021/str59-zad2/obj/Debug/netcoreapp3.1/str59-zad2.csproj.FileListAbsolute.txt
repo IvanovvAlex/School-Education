@@ -1,0 +1,15 @@
+D:\School\School-Education\OOP\25052021\str59-zad2\bin\Debug\netcoreapp3.1\str59-zad2.exe
+D:\School\School-Education\OOP\25052021\str59-zad2\bin\Debug\netcoreapp3.1\str59-zad2.deps.json
+D:\School\School-Education\OOP\25052021\str59-zad2\bin\Debug\netcoreapp3.1\str59-zad2.runtimeconfig.json
+D:\School\School-Education\OOP\25052021\str59-zad2\bin\Debug\netcoreapp3.1\str59-zad2.runtimeconfig.dev.json
+D:\School\School-Education\OOP\25052021\str59-zad2\bin\Debug\netcoreapp3.1\str59-zad2.dll
+D:\School\School-Education\OOP\25052021\str59-zad2\bin\Debug\netcoreapp3.1\str59-zad2.pdb
+D:\School\School-Education\OOP\25052021\str59-zad2\obj\Debug\netcoreapp3.1\str59-zad2.csprojAssemblyReference.cache
+D:\School\School-Education\OOP\25052021\str59-zad2\obj\Debug\netcoreapp3.1\str59_zad2.Form1.resources
+D:\School\School-Education\OOP\25052021\str59-zad2\obj\Debug\netcoreapp3.1\str59-zad2.csproj.GenerateResource.cache
+D:\School\School-Education\OOP\25052021\str59-zad2\obj\Debug\netcoreapp3.1\str59-zad2.AssemblyInfoInputs.cache
+D:\School\School-Education\OOP\25052021\str59-zad2\obj\Debug\netcoreapp3.1\str59-zad2.AssemblyInfo.cs
+D:\School\School-Education\OOP\25052021\str59-zad2\obj\Debug\netcoreapp3.1\str59-zad2.csproj.CoreCompileInputs.cache
+D:\School\School-Education\OOP\25052021\str59-zad2\obj\Debug\netcoreapp3.1\str59-zad2.dll
+D:\School\School-Education\OOP\25052021\str59-zad2\obj\Debug\netcoreapp3.1\str59-zad2.pdb
+D:\School\School-Education\OOP\25052021\str59-zad2\obj\Debug\netcoreapp3.1\str59-zad2.genruntimeconfig.cache
