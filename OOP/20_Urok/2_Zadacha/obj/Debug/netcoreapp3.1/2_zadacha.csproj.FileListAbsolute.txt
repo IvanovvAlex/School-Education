@@ -1,0 +1,4 @@
+D:\School\School-Education\OOP\20_Urok\2_zadacha\obj\Debug\netcoreapp3.1\2_zadacha.csprojAssemblyReference.cache
+D:\School\School-Education\OOP\20_Urok\2_zadacha\obj\Debug\netcoreapp3.1\2_zadacha.AssemblyInfoInputs.cache
+D:\School\School-Education\OOP\20_Urok\2_zadacha\obj\Debug\netcoreapp3.1\2_zadacha.AssemblyInfo.cs
+D:\School\School-Education\OOP\20_Urok\2_zadacha\obj\Debug\netcoreapp3.1\2_zadacha.csproj.CoreCompileInputs.cache
