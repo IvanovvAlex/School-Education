@@ -29,236 +29,315 @@ namespace BooksStoreForms
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.label2 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
+            this.btn_create = new System.Windows.Forms.Button();
+            this.btn_read = new System.Windows.Forms.Button();
+            this.btn_update = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
-            this.label5 = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.dataGridView2 = new System.Windows.Forms.DataGridView();
-            this.label6 = new System.Windows.Forms.Label();
-            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.btn_exit = new System.Windows.Forms.Button();
+            this.btn_search = new System.Windows.Forms.Button();
+            this.btn_delete = new System.Windows.Forms.Button();
+            this.AuthorsRadioButton = new System.Windows.Forms.RadioButton();
+            this.GenresRadioButton = new System.Windows.Forms.RadioButton();
+            this.BooksRadioButton = new System.Windows.Forms.RadioButton();
+            this.txt_ID = new System.Windows.Forms.TextBox();
+            this.txt_Name = new System.Windows.Forms.TextBox();
+            this.txt_ISBN = new System.Windows.Forms.TextBox();
+            this.txt_GenreID = new System.Windows.Forms.TextBox();
+            this.label_ID_T = new System.Windows.Forms.Label();
+            this.label_Name_T = new System.Windows.Forms.Label();
+            this.label_ISBN_T = new System.Windows.Forms.Label();
+            this.label_GenreID_T = new System.Windows.Forms.Label();
+            this.label_GenreID_Optional = new System.Windows.Forms.Label();
+            this.label_ISBN_Optional = new System.Windows.Forms.Label();
+            this.label_Name_Optional = new System.Windows.Forms.Label();
+            this.label_ID_Optional = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
             this.SuspendLayout();
-            // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(212, 48);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 23);
-            this.textBox1.TabIndex = 0;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(144, 51);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(18, 15);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "ID";
             // 
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(428, 48);
+            this.dataGridView1.Location = new System.Drawing.Point(317, 92);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowTemplate.Height = 25;
-            this.dataGridView1.Size = new System.Drawing.Size(608, 62);
+            this.dataGridView1.Size = new System.Drawing.Size(719, 234);
             this.dataGridView1.TabIndex = 2;
             // 
-            // label2
+            // btn_create
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(144, 90);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(39, 15);
-            this.label2.TabIndex = 4;
-            this.label2.Text = "Name";
+            this.btn_create.Location = new System.Drawing.Point(253, 389);
+            this.btn_create.Name = "btn_create";
+            this.btn_create.Size = new System.Drawing.Size(75, 23);
+            this.btn_create.TabIndex = 7;
+            this.btn_create.Text = "Cread";
+            this.btn_create.UseVisualStyleBackColor = true;
+            this.btn_create.Click += new System.EventHandler(this.btn_create_Click);
             // 
-            // textBox2
+            // btn_read
             // 
-            this.textBox2.Location = new System.Drawing.Point(212, 87);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 23);
-            this.textBox2.TabIndex = 3;
+            this.btn_read.Location = new System.Drawing.Point(349, 389);
+            this.btn_read.Name = "btn_read";
+            this.btn_read.Size = new System.Drawing.Size(75, 23);
+            this.btn_read.TabIndex = 8;
+            this.btn_read.Text = "Read";
+            this.btn_read.UseVisualStyleBackColor = true;
+            this.btn_read.Click += new System.EventHandler(this.button2_Click);
             // 
-            // button1
+            // btn_update
             // 
-            this.button1.Location = new System.Drawing.Point(332, 135);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 7;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(428, 135);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 8;
-            this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
-            // 
-            // button3
-            // 
-            this.button3.Location = new System.Drawing.Point(527, 135);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
-            this.button3.TabIndex = 9;
-            this.button3.Text = "button3";
-            this.button3.UseVisualStyleBackColor = true;
+            this.btn_update.Location = new System.Drawing.Point(448, 389);
+            this.btn_update.Name = "btn_update";
+            this.btn_update.Size = new System.Drawing.Size(75, 23);
+            this.btn_update.TabIndex = 9;
+            this.btn_update.Text = "Update";
+            this.btn_update.UseVisualStyleBackColor = true;
+            this.btn_update.Click += new System.EventHandler(this.btn_update_Click);
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(428, 9);
+            this.label4.Location = new System.Drawing.Point(302, 9);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(43, 15);
+            this.label4.Size = new System.Drawing.Size(148, 15);
             this.label4.TabIndex = 10;
-            this.label4.Text = "Genres";
+            this.label4.Text = "Choose table to work with:";
             // 
-            // label3
+            // btn_exit
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(428, 194);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(49, 15);
-            this.label3.TabIndex = 19;
-            this.label3.Text = "Authors";
+            this.btn_exit.Location = new System.Drawing.Point(770, 389);
+            this.btn_exit.Name = "btn_exit";
+            this.btn_exit.Size = new System.Drawing.Size(75, 23);
+            this.btn_exit.TabIndex = 18;
+            this.btn_exit.Text = "Exit";
+            this.btn_exit.UseVisualStyleBackColor = true;
+            this.btn_exit.Click += new System.EventHandler(this.btn_exit_Click);
             // 
-            // button4
+            // btn_search
             // 
-            this.button4.Location = new System.Drawing.Point(527, 320);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(75, 23);
-            this.button4.TabIndex = 18;
-            this.button4.Text = "button4";
-            this.button4.UseVisualStyleBackColor = true;
+            this.btn_search.Location = new System.Drawing.Point(654, 389);
+            this.btn_search.Name = "btn_search";
+            this.btn_search.Size = new System.Drawing.Size(75, 23);
+            this.btn_search.TabIndex = 17;
+            this.btn_search.Text = "Search";
+            this.btn_search.UseVisualStyleBackColor = true;
+            this.btn_search.Click += new System.EventHandler(this.button5_Click);
             // 
-            // button5
+            // btn_delete
             // 
-            this.button5.Location = new System.Drawing.Point(428, 320);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(75, 23);
-            this.button5.TabIndex = 17;
-            this.button5.Text = "button5";
-            this.button5.UseVisualStyleBackColor = true;
+            this.btn_delete.Location = new System.Drawing.Point(549, 389);
+            this.btn_delete.Name = "btn_delete";
+            this.btn_delete.Size = new System.Drawing.Size(75, 23);
+            this.btn_delete.TabIndex = 16;
+            this.btn_delete.Text = "Delete";
+            this.btn_delete.UseVisualStyleBackColor = true;
+            this.btn_delete.Click += new System.EventHandler(this.btn_delete_Click);
             // 
-            // button6
+            // AuthorsRadioButton
             // 
-            this.button6.Location = new System.Drawing.Point(332, 320);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(75, 23);
-            this.button6.TabIndex = 16;
-            this.button6.Text = "button6";
-            this.button6.UseVisualStyleBackColor = true;
+            this.AuthorsRadioButton.AutoSize = true;
+            this.AuthorsRadioButton.Location = new System.Drawing.Point(456, 7);
+            this.AuthorsRadioButton.Name = "AuthorsRadioButton";
+            this.AuthorsRadioButton.Size = new System.Drawing.Size(67, 19);
+            this.AuthorsRadioButton.TabIndex = 24;
+            this.AuthorsRadioButton.TabStop = true;
+            this.AuthorsRadioButton.Text = "Authors";
+            this.AuthorsRadioButton.UseVisualStyleBackColor = true;
+            this.AuthorsRadioButton.CheckedChanged += new System.EventHandler(this.AuthorsRadioButton_CheckedChanged);
             // 
-            // label5
+            // GenresRadioButton
             // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(144, 275);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(39, 15);
-            this.label5.TabIndex = 15;
-            this.label5.Text = "Name";
+            this.GenresRadioButton.AutoSize = true;
+            this.GenresRadioButton.Location = new System.Drawing.Point(529, 7);
+            this.GenresRadioButton.Name = "GenresRadioButton";
+            this.GenresRadioButton.Size = new System.Drawing.Size(61, 19);
+            this.GenresRadioButton.TabIndex = 25;
+            this.GenresRadioButton.TabStop = true;
+            this.GenresRadioButton.Text = "Genres";
+            this.GenresRadioButton.UseVisualStyleBackColor = true;
+            this.GenresRadioButton.CheckedChanged += new System.EventHandler(this.GenresRadioButton_CheckedChanged);
             // 
-            // textBox3
+            // BooksRadioButton
             // 
-            this.textBox3.Location = new System.Drawing.Point(212, 272);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(100, 23);
-            this.textBox3.TabIndex = 14;
+            this.BooksRadioButton.AutoSize = true;
+            this.BooksRadioButton.Location = new System.Drawing.Point(596, 7);
+            this.BooksRadioButton.Name = "BooksRadioButton";
+            this.BooksRadioButton.Size = new System.Drawing.Size(57, 19);
+            this.BooksRadioButton.TabIndex = 26;
+            this.BooksRadioButton.TabStop = true;
+            this.BooksRadioButton.Text = "Books";
+            this.BooksRadioButton.UseVisualStyleBackColor = true;
+            this.BooksRadioButton.CheckedChanged += new System.EventHandler(this.BooksRadioButton_CheckedChanged);
             // 
-            // dataGridView2
+            // txt_ID
             // 
-            this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView2.Location = new System.Drawing.Point(428, 233);
-            this.dataGridView2.Name = "dataGridView2";
-            this.dataGridView2.RowTemplate.Height = 25;
-            this.dataGridView2.Size = new System.Drawing.Size(608, 62);
-            this.dataGridView2.TabIndex = 13;
+            this.txt_ID.Enabled = false;
+            this.txt_ID.Location = new System.Drawing.Point(78, 128);
+            this.txt_ID.Name = "txt_ID";
+            this.txt_ID.Size = new System.Drawing.Size(100, 23);
+            this.txt_ID.TabIndex = 28;
+            this.txt_ID.TextChanged += new System.EventHandler(this.txt_ID_TextChanged);
             // 
-            // label6
+            // txt_Name
             // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(144, 236);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(18, 15);
-            this.label6.TabIndex = 12;
-            this.label6.Text = "ID";
+            this.txt_Name.Enabled = false;
+            this.txt_Name.Location = new System.Drawing.Point(78, 166);
+            this.txt_Name.Name = "txt_Name";
+            this.txt_Name.Size = new System.Drawing.Size(100, 23);
+            this.txt_Name.TabIndex = 29;
+            this.txt_Name.Text = " ";
             // 
-            // textBox4
+            // txt_ISBN
             // 
-            this.textBox4.Location = new System.Drawing.Point(212, 233);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(100, 23);
-            this.textBox4.TabIndex = 11;
+            this.txt_ISBN.Enabled = false;
+            this.txt_ISBN.Location = new System.Drawing.Point(78, 204);
+            this.txt_ISBN.Name = "txt_ISBN";
+            this.txt_ISBN.Size = new System.Drawing.Size(100, 23);
+            this.txt_ISBN.TabIndex = 30;
+            // 
+            // txt_GenreID
+            // 
+            this.txt_GenreID.Enabled = false;
+            this.txt_GenreID.Location = new System.Drawing.Point(78, 242);
+            this.txt_GenreID.Name = "txt_GenreID";
+            this.txt_GenreID.Size = new System.Drawing.Size(100, 23);
+            this.txt_GenreID.TabIndex = 31;
+            // 
+            // label_ID_T
+            // 
+            this.label_ID_T.AutoSize = true;
+            this.label_ID_T.Location = new System.Drawing.Point(24, 131);
+            this.label_ID_T.Name = "label_ID_T";
+            this.label_ID_T.Size = new System.Drawing.Size(18, 15);
+            this.label_ID_T.TabIndex = 33;
+            this.label_ID_T.Text = "ID";
+            this.label_ID_T.Click += new System.EventHandler(this.label1_Click);
+            // 
+            // label_Name_T
+            // 
+            this.label_Name_T.AutoSize = true;
+            this.label_Name_T.Location = new System.Drawing.Point(24, 169);
+            this.label_Name_T.Name = "label_Name_T";
+            this.label_Name_T.Size = new System.Drawing.Size(39, 15);
+            this.label_Name_T.TabIndex = 34;
+            this.label_Name_T.Text = "Name";
+            // 
+            // label_ISBN_T
+            // 
+            this.label_ISBN_T.AutoSize = true;
+            this.label_ISBN_T.Location = new System.Drawing.Point(24, 207);
+            this.label_ISBN_T.Name = "label_ISBN_T";
+            this.label_ISBN_T.Size = new System.Drawing.Size(32, 15);
+            this.label_ISBN_T.TabIndex = 35;
+            this.label_ISBN_T.Text = "ISBN";
+            // 
+            // label_GenreID_T
+            // 
+            this.label_GenreID_T.AutoSize = true;
+            this.label_GenreID_T.Location = new System.Drawing.Point(24, 245);
+            this.label_GenreID_T.Name = "label_GenreID_T";
+            this.label_GenreID_T.Size = new System.Drawing.Size(49, 15);
+            this.label_GenreID_T.TabIndex = 36;
+            this.label_GenreID_T.Text = "GenreID";
+            // 
+            // label_GenreID_Optional
+            // 
+            this.label_GenreID_Optional.AutoSize = true;
+            this.label_GenreID_Optional.Location = new System.Drawing.Point(203, 245);
+            this.label_GenreID_Optional.Name = "label_GenreID_Optional";
+            this.label_GenreID_Optional.Size = new System.Drawing.Size(61, 15);
+            this.label_GenreID_Optional.TabIndex = 40;
+            this.label_GenreID_Optional.Text = "(Optional)";
+            // 
+            // label_ISBN_Optional
+            // 
+            this.label_ISBN_Optional.AutoSize = true;
+            this.label_ISBN_Optional.Location = new System.Drawing.Point(203, 207);
+            this.label_ISBN_Optional.Name = "label_ISBN_Optional";
+            this.label_ISBN_Optional.Size = new System.Drawing.Size(61, 15);
+            this.label_ISBN_Optional.TabIndex = 39;
+            this.label_ISBN_Optional.Text = "(Optional)";
+            // 
+            // label_Name_Optional
+            // 
+            this.label_Name_Optional.AutoSize = true;
+            this.label_Name_Optional.Location = new System.Drawing.Point(203, 169);
+            this.label_Name_Optional.Name = "label_Name_Optional";
+            this.label_Name_Optional.Size = new System.Drawing.Size(61, 15);
+            this.label_Name_Optional.TabIndex = 38;
+            this.label_Name_Optional.Text = "(Optional)";
+            // 
+            // label_ID_Optional
+            // 
+            this.label_ID_Optional.AutoSize = true;
+            this.label_ID_Optional.Location = new System.Drawing.Point(203, 131);
+            this.label_ID_Optional.Name = "label_ID_Optional";
+            this.label_ID_Optional.Size = new System.Drawing.Size(61, 15);
+            this.label_ID_Optional.TabIndex = 37;
+            this.label_ID_Optional.Text = "(Optional)";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1062, 450);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button5);
-            this.Controls.Add(this.button6);
-            this.Controls.Add(this.label5);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.dataGridView2);
-            this.Controls.Add(this.label6);
-            this.Controls.Add(this.textBox4);
+            this.Controls.Add(this.label_GenreID_Optional);
+            this.Controls.Add(this.label_ISBN_Optional);
+            this.Controls.Add(this.label_Name_Optional);
+            this.Controls.Add(this.label_ID_Optional);
+            this.Controls.Add(this.label_GenreID_T);
+            this.Controls.Add(this.label_ISBN_T);
+            this.Controls.Add(this.label_Name_T);
+            this.Controls.Add(this.label_ID_T);
+            this.Controls.Add(this.txt_GenreID);
+            this.Controls.Add(this.txt_ISBN);
+            this.Controls.Add(this.txt_Name);
+            this.Controls.Add(this.txt_ID);
+            this.Controls.Add(this.BooksRadioButton);
+            this.Controls.Add(this.GenresRadioButton);
+            this.Controls.Add(this.AuthorsRadioButton);
+            this.Controls.Add(this.btn_exit);
+            this.Controls.Add(this.btn_search);
+            this.Controls.Add(this.btn_delete);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.btn_update);
+            this.Controls.Add(this.btn_read);
+            this.Controls.Add(this.btn_create);
             this.Controls.Add(this.dataGridView1);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox1);
             this.Name = "Form1";
             this.Text = "Book Store DB Operations";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button btn_read;
+        private System.Windows.Forms.Button btn_update;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.DataGridView dataGridView2;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.Button btn_exit;
+        private System.Windows.Forms.Button btn_search;
+        private System.Windows.Forms.Button btn_delete;
+        private System.Windows.Forms.RadioButton AuthorsRadioButton;
+        private System.Windows.Forms.RadioButton GenresRadioButton;
+        private System.Windows.Forms.RadioButton BooksRadioButton;
+        private System.Windows.Forms.TextBox txt_ID;
+        private System.Windows.Forms.TextBox txt_Name;
+        private System.Windows.Forms.TextBox txt_ISBN;
+        private System.Windows.Forms.TextBox txt_GenreID;
+        private System.Windows.Forms.Label label_ID_T;
+        private System.Windows.Forms.Label label_Name_T;
+        private System.Windows.Forms.Label label_ISBN_T;
+        private System.Windows.Forms.Label label_GenreID_T;
+        private System.Windows.Forms.Label label_GenreID_Optional;
+        private System.Windows.Forms.Label label_ISBN_Optional;
+        private System.Windows.Forms.Label label_Name_Optional;
+        private System.Windows.Forms.Label label_ID_Optional;
+        private System.Windows.Forms.Button btn_create;
     }
 }
 
