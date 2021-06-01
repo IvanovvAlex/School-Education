@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1_zadacha/1.0.0": {
+        "runtime": {
+          "1_zadacha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1_zadacha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -2,3 +2,12 @@ D:\School\School-Education\OOP\20_Urok\2_zadacha\obj\Debug\netcoreapp3.1\2_zadac
 D:\School\School-Education\OOP\20_Urok\2_zadacha\obj\Debug\netcoreapp3.1\2_zadacha.AssemblyInfoInputs.cache
 D:\School\School-Education\OOP\20_Urok\2_zadacha\obj\Debug\netcoreapp3.1\2_zadacha.AssemblyInfo.cs
 D:\School\School-Education\OOP\20_Urok\2_zadacha\obj\Debug\netcoreapp3.1\2_zadacha.csproj.CoreCompileInputs.cache
+D:\School\School-Education\OOP\20_Urok\2_zadacha\bin\Debug\netcoreapp3.1\2_zadacha.exe
+D:\School\School-Education\OOP\20_Urok\2_zadacha\bin\Debug\netcoreapp3.1\2_zadacha.deps.json
+D:\School\School-Education\OOP\20_Urok\2_zadacha\bin\Debug\netcoreapp3.1\2_zadacha.runtimeconfig.json
+D:\School\School-Education\OOP\20_Urok\2_zadacha\bin\Debug\netcoreapp3.1\2_zadacha.runtimeconfig.dev.json
+D:\School\School-Education\OOP\20_Urok\2_zadacha\bin\Debug\netcoreapp3.1\2_zadacha.dll
+D:\School\School-Education\OOP\20_Urok\2_zadacha\bin\Debug\netcoreapp3.1\2_zadacha.pdb
+D:\School\School-Education\OOP\20_Urok\2_zadacha\obj\Debug\netcoreapp3.1\2_zadacha.dll
+D:\School\School-Education\OOP\20_Urok\2_zadacha\obj\Debug\netcoreapp3.1\2_zadacha.pdb
+D:\School\School-Education\OOP\20_Urok\2_zadacha\obj\Debug\netcoreapp3.1\2_zadacha.genruntimeconfig.cache

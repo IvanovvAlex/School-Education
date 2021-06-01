@@ -9,118 +9,118 @@ namespace _1_zadacha
 
         }
     }
-    class SetByte // създаваме клас с име "SetByte"
+    class SetByte 
     {
-        public byte[] elements; // задаваме, че класа "SetByte" има публично пропърти което е масив от байтове и пропъртито е кръстено elements
-        public int size; // задаваме, че класа има публично пропърти което е int (цяло число), пази в себе си размера на масива от първото пропърти
-                         // и е кръстено size
+        public byte[] elements; 
+        public int size; 
+                         
 
         public SetByte()
         {
-            size = 0;                    //създаваме празен конструктор, при чиято употреба size-a автоматично ще е равен на 0, а elements ще се създаде
-            elements = new byte[256];    // с максималният размер, за байт, който е 256
+            size = 0;                    
+            elements = new byte[256];    
         }
-        public SetByte(byte[] e, int s) //създаваме конструктор, който приема два параметъра, първия е масив от байтове, а втория
-        {                       //е размера на масива
+        public SetByte(byte[] e, int s) 
+        {                       
             this.size = s;
             this.elements = new byte[256];
-            if (this.size != 0) //ако размера е различен от 0 се изпълнява
+            if (this.size != 0)
             {
                 for (int i = 0; i < s; i++)
                 {
-                    this.elements[i] = e[i]; // присвояваме стойностите от масива "e", на нашия масив
+                    this.elements[i] = e[i]; 
                 }
             }
-            Array.Sort(this.elements, 0, s); // сортираме си масива
+            Array.Sort(this.elements, 0, s); 
         }
-        public SetByte(SetByte setByte) //създаваме конструктор, който приема като параметър обект от същия клас и му присвоява стойностите
+        public SetByte(SetByte setByte) 
         {
             this.size = setByte.size;
             this.elements = new byte[256];
-            if (size != 0) //ако размера е различен от 0 се изпълнява
+            if (size != 0)
             {
                 for (int i = 0; i < setByte.size; i++)
                 {
-                    this.elements[i] = setByte.elements[i];  // присвояваме стойностите от масива "setBytes", на нашия масив
+                    this.elements[i] = setByte.elements[i];  
                 }
             }
         }
-        public SetByte Union(SetByte b) //създаваме конструктор, който приема като параметър обект от същия клас, присвоява стойностите и връща
-        {                               // нов обект с име "c"
-            SetByte c = new SetByte(); //създаваме обект от същия клас
+        public SetByte Union(SetByte b)
+        {                              
+            SetByte c = new SetByte(); 
             int n1 = 0;
-            int n2 = 0; //променливи
+            int n2 = 0; 
             int n = -1;
             int i;
 
-            while (n1 < this.size && n2 < b.size) //правим цикъл, докато n1 e < размера на настоящия обект и докато n2 e < от обекта
-            {                                     //подаден като параметър             
-                if (this.elements[n1] <= b.elements[n2])  //ако елемента от настоящия масив на позиция n1 <= на елемента от обект "b"
-                {                                         //на позиция n2
-                    c.elements[++n] = this.elements[n1++]; // елемента от обекта "c" на позиция n+1 = елемента от настоящия обект на позиция n1 
-                }                                          // към n и n1 се добавя (+) 1 
-                else // в противен случай
+            while (n1 < this.size && n2 < b.size) 
+            {                                     
+                if (this.elements[n1] <= b.elements[n2])  
+                {                                         
+                    c.elements[++n] = this.elements[n1++];  
+                }                                          
+                else 
                 {
-                    c.elements[++n] = b.elements[n2++]; // елемента от обекта "c" на позиция n+1 = елемента от обекта "b" на позиция n2
-                }                                       //към n и n2 се добавя (+) 1
-                if (this.elements[n1] == b.elements[n2]) // ако елемента от настоящия обект на позиция n1 = елемента от масива на обекта "b" на позиция n2
+                    c.elements[++n] = b.elements[n2++]; 
+                }                                       
+                if (this.elements[n1] == b.elements[n2])
                 {
-                    n2++; // към n2 се добавя (+) 1 
+                    n2++; 
                 }
             }
-            if (n1 == this.size) // ако n1 e = на размера от настоящия обект
+            if (n1 == this.size) 
             {
-                for (i = n2; i < b.size; i++) //цикъл от n2 до размера на масива от обект "b"
+                for (i = n2; i < b.size; i++) 
                 {
-                    c.elements[++n] = b.elements[i]; // елемента от обекта "c" на позиция n+1 = елемента от обекта "b" на позиция i
-                }                                       //към n се добавя (+) 1
+                    c.elements[++n] = b.elements[i]; 
+                }                                    
             }
-            else // в противен случай
+            else 
             {
-                for (i = n1; i < this.size; i++) //цикъл от n1 до размера на масива от текущия обект 
+                for (i = n1; i < this.size; i++) 
                 {
-                    c.elements[++n] = this.elements[i]; // елемента от обекта "c" на позиция n = елемента от текущия обект на позиция i
-                }                                       //към n се добавя (+) 1
+                    c.elements[++n] = this.elements[i]; 
+                }                                       
             }
-            c.size = (byte)(n + 1); //size на обекта "c" е равен на n + 1, като числото е от тип байт, защото ние го задаваме експицитно(ние го налагаме)
-            return c; // връщаме обекта "с"
+            c.size = (byte)(n + 1);
+            return c; 
         }
         public SetByte Intersection(SetByte b)
         {
-            SetByte c = new SetByte(); //създаваме обект от същия клас
+            SetByte c = new SetByte(); 
             int n1 = 0;
-            int n2 = 0; //променливи
+            int n2 = 0;
             int n = -1;
             int i;
-            while (n1 < this.size && n2 < b.size)      //правим цикъл, докато n1 e < размера на настоящия обект и докато n2 e < от обекта
-            {                                          //подаден като параметър             
-                if (this.elements[n1] < b.elements[n2]) //ако елемента от настоящия масив на позиция n1 < на елемента от обект "b"
-                {                                       //на позиция n2
-                    n1++; //n1 = n1 + 1
+            while (n1 < this.size && n2 < b.size)      
+            {                                          
+                if (this.elements[n1] < b.elements[n2])
+                {                                      
+                    n1++; 
                 }
-                else if (this.elements[n1] > b.elements[n2]) //ако елемента от настоящия масив на позиция n1 > на елемента от обект "b"
-                {                                            //на позиция n2
-                    n2++; //n2 = n2 + 1
+                else if (this.elements[n1] > b.elements[n2]) 
+                {                                            
+                    n2++; 
                 }
-                else  // в противен случай
+                else  
                 {
-                    c.elements[++n] = this.elements[n1++]; // елемента от обекта "c" на позиция n+1 = елемента от текущия обект на позиция n1
-                    n2++;                                  //към n, n1 и n2 се добавя (+) 1
+                    c.elements[++n] = this.elements[n1++]; 
+                    n2++;                                  
                 }
             }
-            c.size = (byte)(n + 1);//size на обекта "c" е равен на n + 1, като числото е от тип байт, защото ние го задаваме експицитно(ние го налагаме)
-            return c; // връщаме обекта "с"
+            c.size = (byte)(n + 1);
+            return c; 
         }
         public void Print() 
         {
             Console.Write("{ ");
-            if (size != 0) //ако размера е различен от 0 се изпълнява
+            if (size != 0)
             {
-                for (int i = 0; i < this.size; i++) // цикъл от 0 до размера на масива на текущия обект
+                for (int i = 0; i < this.size; i++) 
                 {
-                    Console.Write("{0}, ", this.elements[i]); // изписва на същия ред елемента от масива на позиция i
+                    Console.Write("{0}, ", this.elements[i]);
                 }
-                Console.Write("{0} ", this.elements[size - 1]); // изписва последния елемент
+                Console.Write("{0} ", this.elements[size - 1]); 
             }
             Console.WriteLine("}");
         }
