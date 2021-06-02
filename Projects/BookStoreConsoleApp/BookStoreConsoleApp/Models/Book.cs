@@ -48,7 +48,7 @@ namespace BookStoreConsoleApp.Models
         }
         public static void Read(ContextDB db)
         {
-
+            Console.Clear();
             Engine.con.Open();
             DataTable dt = new DataTable();
             var adapt = new SqlDataAdapter("select * from Books", Engine.con);
@@ -69,12 +69,12 @@ namespace BookStoreConsoleApp.Models
         {
             if (BooksID != null && BooksName != string.Empty && BooksISBN != null && GenresID != null)
             {
-                Engine.cmd = new SqlCommand("update Genres set BooksName=@BooksName,BooksISBN=@BooksISBN,GenresID=@GenresID where BooksID=@id", Engine.con);
+                Engine.cmd = new SqlCommand("update Genres set BooksName=@name,BooksISBN=@isbn,GenresID=@GenresID where BooksID=@id", Engine.con);
                 Engine.con.Open();
                 Engine.cmd.Parameters.AddWithValue("@id", BooksID);
                 Engine.cmd.Parameters.AddWithValue("@name", BooksName);
-                Engine.cmd.Parameters.AddWithValue("@name", BooksName);
-                Engine.cmd.Parameters.AddWithValue("@name", BooksName);
+                Engine.cmd.Parameters.AddWithValue("@isbn", BooksISBN);
+                Engine.cmd.Parameters.AddWithValue("@GenresID", GenresID);
                 Engine.cmd.ExecuteNonQuery();
                 Engine.con.Close();
                 db.SaveChanges();

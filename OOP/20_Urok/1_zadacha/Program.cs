@@ -6,7 +6,20 @@ namespace _1_zadacha
     {
         static void Main(string[] args)
         {
-
+            Console.Write("Въведете броя на елементите: ");
+            int n = int.Parse(Console.ReadLine());
+            byte[] arr = new byte[n];
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write("Въведете елемент: ");
+                arr[i] = byte.Parse(Console.ReadLine());
+            }
+            SetByte s = new SetByte();
+            SetByte f = new SetByte(arr, arr.Length);
+            SetByte u = new SetByte ()
+            s.Print();
+            f.Print();
+            
         }
     }
     class SetByte 

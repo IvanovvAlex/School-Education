@@ -55,7 +55,7 @@ namespace BookStoreConsoleApp.Models
         }
         public static void Read(ContextDB db)
         {
-
+            Console.Clear();
             Engine.con.Open();
             DataTable dt = new DataTable();
             var adapt = new SqlDataAdapter("select * from Authors", Engine.con);

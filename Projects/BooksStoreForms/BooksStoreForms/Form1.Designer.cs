@@ -70,7 +70,7 @@ namespace BooksStoreForms
             this.btn_create.Name = "btn_create";
             this.btn_create.Size = new System.Drawing.Size(75, 23);
             this.btn_create.TabIndex = 7;
-            this.btn_create.Text = "Cread";
+            this.btn_create.Text = "Create";
             this.btn_create.UseVisualStyleBackColor = true;
             this.btn_create.Click += new System.EventHandler(this.btn_create_Click);
             // 
@@ -105,7 +105,7 @@ namespace BooksStoreForms
             // 
             // btn_exit
             // 
-            this.btn_exit.Location = new System.Drawing.Point(770, 389);
+            this.btn_exit.Location = new System.Drawing.Point(756, 389);
             this.btn_exit.Name = "btn_exit";
             this.btn_exit.Size = new System.Drawing.Size(75, 23);
             this.btn_exit.TabIndex = 18;
