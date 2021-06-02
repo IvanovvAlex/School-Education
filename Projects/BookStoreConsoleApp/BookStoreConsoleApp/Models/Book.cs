@@ -69,7 +69,7 @@ namespace BookStoreConsoleApp.Models
         {
             if (BooksID != null && BooksName != string.Empty && BooksISBN != null && GenresID != null)
             {
-                Engine.cmd = new SqlCommand("update Genres set BooksName=@name,BooksISBN=@isbn,GenresID=@GenresID where BooksID=@id", Engine.con);
+                Engine.cmd = new SqlCommand("update Books set BooksName=@name,BooksISBN=@isbn,GenresID=@GenresID where BooksID=@id", Engine.con);
                 Engine.con.Open();
                 Engine.cmd.Parameters.AddWithValue("@id", BooksID);
                 Engine.cmd.Parameters.AddWithValue("@name", BooksName);
