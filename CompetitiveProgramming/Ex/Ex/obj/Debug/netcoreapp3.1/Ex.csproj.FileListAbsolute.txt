@@ -1,0 +1,13 @@
+D:\School\School-Education\CompetitiveProgramming\Ex\Ex\bin\Debug\netcoreapp3.1\Ex.exe
+D:\School\School-Education\CompetitiveProgramming\Ex\Ex\bin\Debug\netcoreapp3.1\Ex.deps.json
+D:\School\School-Education\CompetitiveProgramming\Ex\Ex\bin\Debug\netcoreapp3.1\Ex.runtimeconfig.json
+D:\School\School-Education\CompetitiveProgramming\Ex\Ex\bin\Debug\netcoreapp3.1\Ex.runtimeconfig.dev.json
+D:\School\School-Education\CompetitiveProgramming\Ex\Ex\bin\Debug\netcoreapp3.1\Ex.dll
+D:\School\School-Education\CompetitiveProgramming\Ex\Ex\bin\Debug\netcoreapp3.1\Ex.pdb
+D:\School\School-Education\CompetitiveProgramming\Ex\Ex\obj\Debug\netcoreapp3.1\Ex.csprojAssemblyReference.cache
+D:\School\School-Education\CompetitiveProgramming\Ex\Ex\obj\Debug\netcoreapp3.1\Ex.AssemblyInfoInputs.cache
+D:\School\School-Education\CompetitiveProgramming\Ex\Ex\obj\Debug\netcoreapp3.1\Ex.AssemblyInfo.cs
+D:\School\School-Education\CompetitiveProgramming\Ex\Ex\obj\Debug\netcoreapp3.1\Ex.csproj.CoreCompileInputs.cache
+D:\School\School-Education\CompetitiveProgramming\Ex\Ex\obj\Debug\netcoreapp3.1\Ex.dll
+D:\School\School-Education\CompetitiveProgramming\Ex\Ex\obj\Debug\netcoreapp3.1\Ex.pdb
+D:\School\School-Education\CompetitiveProgramming\Ex\Ex\obj\Debug\netcoreapp3.1\Ex.genruntimeconfig.cache

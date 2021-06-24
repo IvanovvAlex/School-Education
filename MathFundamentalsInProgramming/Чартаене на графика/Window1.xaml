@@ -1,0 +1,72 @@
+﻿<Window x:Class="howto_wpf_graph_user_equation.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="howto_wpf_graph_user_equation"
+    Height="480" Width="480"
+    Loaded="Window_Loaded">
+    <Grid Background="LightGreen">
+        <Grid.Resources>
+            <Style TargetType="Label">
+                <Setter Property="VerticalAlignment" Value="Center"/>
+            </Style>
+            <Style TargetType="TextBox">
+                <Setter Property="VerticalAlignment" Value="Center"/>
+                <Setter Property="TextAlignment" Value="Right"/>
+                <Setter Property="Margin" Value="2"/>
+            </Style>
+        </Grid.Resources>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Row="0" Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="75"/>
+                <ColumnDefinition Width="75"/>
+                <ColumnDefinition Width="75"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            
+            <Label Content="Equation:"
+                Grid.Row="0" Grid.Column="0"
+                HorizontalAlignment="Right"/>
+            <TextBox Name="txtEquation" Text="10 * Math.Sin(x) / x"
+                HorizontalContentAlignment="Left"
+                Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="3"/>
+
+            <TextBox Name="txtXmin" Text="-20"
+                Grid.Row="1" Grid.Column="0"/>
+            <Label Content="&lt;= X &lt;="
+                Grid.Row="1" Grid.Column="1"
+                HorizontalAlignment="Center"/>
+            <TextBox Name="txtXmax" Text="20"
+                Grid.Row="1" Grid.Column="2"/>
+            
+            <TextBox Name="txtYmin" Text="-5"
+                Grid.Row="2" Grid.Column="0"/>
+            <Label Content="&lt;= Y &lt;="
+                Grid.Row="2" Grid.Column="1"
+                HorizontalAlignment="Center"/>
+            <TextBox Name="txtYmax" Text="20"
+                Grid.Row="2" Grid.Column="2"/>
+            
+            <Button Name="btnGraph" Content="Graph"
+                Grid.Row="1" Grid.Column="3" Grid.RowSpan="2"
+                Width="75" Height="30" Click="btnGraph_Click"/>
+        </Grid>
+        
+        <Canvas Name="canGraph" Grid.Row="1" Grid.Column="0"
+            Background="White"
+            VerticalAlignment="Stretch"
+            HorizontalAlignment="Stretch"/>
+    </Grid>
+</Window>

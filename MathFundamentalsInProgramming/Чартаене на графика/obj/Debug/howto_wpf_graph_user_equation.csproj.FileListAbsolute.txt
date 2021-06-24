@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\Нова папка (2)\howto_wpf_graph_user_equation\bin\Debug\howto_wpf_graph_user_equation.exe
+C:\Users\PC\Desktop\Нова папка (2)\howto_wpf_graph_user_equation\bin\Debug\howto_wpf_graph_user_equation.pdb
+C:\Users\PC\Desktop\Нова папка (2)\howto_wpf_graph_user_equation\obj\Debug\howto_wpf_graph_user_equation.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Нова папка (2)\howto_wpf_graph_user_equation\obj\Debug\Window1.baml
+C:\Users\PC\Desktop\Нова папка (2)\howto_wpf_graph_user_equation\obj\Debug\Window1.g.cs
+C:\Users\PC\Desktop\Нова папка (2)\howto_wpf_graph_user_equation\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\Нова папка (2)\howto_wpf_graph_user_equation\obj\Debug\howto_wpf_graph_user_equation_MarkupCompile.cache
+C:\Users\PC\Desktop\Нова папка (2)\howto_wpf_graph_user_equation\obj\Debug\howto_wpf_graph_user_equation.g.resources
+C:\Users\PC\Desktop\Нова папка (2)\howto_wpf_graph_user_equation\obj\Debug\howto_wpf_graph_user_equation.Properties.Resources.resources
+C:\Users\PC\Desktop\Нова папка (2)\howto_wpf_graph_user_equation\obj\Debug\howto_wpf_graph_user_equation.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Нова папка (2)\howto_wpf_graph_user_equation\obj\Debug\howto_wpf_graph_user_equation.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Нова папка (2)\howto_wpf_graph_user_equation\obj\Debug\howto_wpf_graph_user_equation.exe
+C:\Users\PC\Desktop\Нова папка (2)\howto_wpf_graph_user_equation\obj\Debug\howto_wpf_graph_user_equation.pdb
