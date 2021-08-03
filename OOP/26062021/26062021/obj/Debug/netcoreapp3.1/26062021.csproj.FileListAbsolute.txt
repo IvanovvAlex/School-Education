@@ -1,0 +1,16 @@
+D:\School\School-Education\OOP\26062021\26062021\bin\Debug\netcoreapp3.1\26062021.exe
+D:\School\School-Education\OOP\26062021\26062021\bin\Debug\netcoreapp3.1\26062021.deps.json
+D:\School\School-Education\OOP\26062021\26062021\bin\Debug\netcoreapp3.1\26062021.runtimeconfig.json
+D:\School\School-Education\OOP\26062021\26062021\bin\Debug\netcoreapp3.1\26062021.runtimeconfig.dev.json
+D:\School\School-Education\OOP\26062021\26062021\bin\Debug\netcoreapp3.1\26062021.dll
+D:\School\School-Education\OOP\26062021\26062021\bin\Debug\netcoreapp3.1\26062021.pdb
+D:\School\School-Education\OOP\26062021\26062021\obj\Debug\netcoreapp3.1\26062021.csprojAssemblyReference.cache
+D:\School\School-Education\OOP\26062021\26062021\obj\Debug\netcoreapp3.1\_26062021.Form1.resources
+D:\School\School-Education\OOP\26062021\26062021\obj\Debug\netcoreapp3.1\26062021.csproj.GenerateResource.cache
+D:\School\School-Education\OOP\26062021\26062021\obj\Debug\netcoreapp3.1\26062021.AssemblyInfoInputs.cache
+D:\School\School-Education\OOP\26062021\26062021\obj\Debug\netcoreapp3.1\26062021.AssemblyInfo.cs
+D:\School\School-Education\OOP\26062021\26062021\obj\Debug\netcoreapp3.1\26062021.csproj.CoreCompileInputs.cache
+D:\School\School-Education\OOP\26062021\26062021\obj\Debug\netcoreapp3.1\26062021.dll
+D:\School\School-Education\OOP\26062021\26062021\obj\Debug\netcoreapp3.1\26062021.pdb
+D:\School\School-Education\OOP\26062021\26062021\obj\Debug\netcoreapp3.1\26062021.genruntimeconfig.cache
+D:\School\School-Education\OOP\26062021\26062021\obj\Debug\netcoreapp3.1\_26062021.Properties.Resources.resources
