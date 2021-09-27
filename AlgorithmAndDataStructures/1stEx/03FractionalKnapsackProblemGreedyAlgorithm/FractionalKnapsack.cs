@@ -26,7 +26,7 @@ namespace _03FractionalKnapsackProblemGreedyAlgorithm
                                         //Sort knapsack packages by cost with descending order.
                                         //If select package i.
                                         //If select the number of package i is enough.
-                                        //Stop when browsing all packages.
+                                        //Stop when browsing all packages
             while (!stopProc)
             {
                 if (packs[i].Weight <= remain)
