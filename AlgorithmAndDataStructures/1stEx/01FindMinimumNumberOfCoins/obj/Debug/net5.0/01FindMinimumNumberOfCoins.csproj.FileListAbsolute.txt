@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\01FindMinimumNumberOfCoins\bin\Debug\net5.0\01FindMinimumNumberOfCoins.exe
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\01FindMinimumNumberOfCoins\bin\Debug\net5.0\01FindMinimumNumberOfCoins.deps.json
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\01FindMinimumNumberOfCoins\bin\Debug\net5.0\01FindMinimumNumberOfCoins.runtimeconfig.json
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\01FindMinimumNumberOfCoins\bin\Debug\net5.0\01FindMinimumNumberOfCoins.runtimeconfig.dev.json
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\01FindMinimumNumberOfCoins\bin\Debug\net5.0\01FindMinimumNumberOfCoins.dll
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\01FindMinimumNumberOfCoins\bin\Debug\net5.0\ref\01FindMinimumNumberOfCoins.dll
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\01FindMinimumNumberOfCoins\bin\Debug\net5.0\01FindMinimumNumberOfCoins.pdb
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\01FindMinimumNumberOfCoins\obj\Debug\net5.0\01FindMinimumNumberOfCoins.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\01FindMinimumNumberOfCoins\obj\Debug\net5.0\01FindMinimumNumberOfCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\01FindMinimumNumberOfCoins\obj\Debug\net5.0\01FindMinimumNumberOfCoins.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\01FindMinimumNumberOfCoins\obj\Debug\net5.0\01FindMinimumNumberOfCoins.AssemblyInfo.cs
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\01FindMinimumNumberOfCoins\obj\Debug\net5.0\01FindMinimumNumberOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\01FindMinimumNumberOfCoins\obj\Debug\net5.0\01FindMinimumNumberOfCoins.dll
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\01FindMinimumNumberOfCoins\obj\Debug\net5.0\ref\01FindMinimumNumberOfCoins.dll
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\01FindMinimumNumberOfCoins\obj\Debug\net5.0\01FindMinimumNumberOfCoins.pdb
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\01FindMinimumNumberOfCoins\obj\Debug\net5.0\01FindMinimumNumberOfCoins.genruntimeconfig.cache

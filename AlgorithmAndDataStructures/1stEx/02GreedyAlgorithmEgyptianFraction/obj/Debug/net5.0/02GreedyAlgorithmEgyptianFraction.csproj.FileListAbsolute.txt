@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\02GreedyAlgorithmEgyptianFraction\bin\Debug\net5.0\02GreedyAlgorithmEgyptianFraction.exe
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\02GreedyAlgorithmEgyptianFraction\bin\Debug\net5.0\02GreedyAlgorithmEgyptianFraction.deps.json
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\02GreedyAlgorithmEgyptianFraction\bin\Debug\net5.0\02GreedyAlgorithmEgyptianFraction.runtimeconfig.json
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\02GreedyAlgorithmEgyptianFraction\bin\Debug\net5.0\02GreedyAlgorithmEgyptianFraction.runtimeconfig.dev.json
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\02GreedyAlgorithmEgyptianFraction\bin\Debug\net5.0\02GreedyAlgorithmEgyptianFraction.dll
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\02GreedyAlgorithmEgyptianFraction\bin\Debug\net5.0\ref\02GreedyAlgorithmEgyptianFraction.dll
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\02GreedyAlgorithmEgyptianFraction\bin\Debug\net5.0\02GreedyAlgorithmEgyptianFraction.pdb
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\02GreedyAlgorithmEgyptianFraction\obj\Debug\net5.0\02GreedyAlgorithmEgyptianFraction.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\02GreedyAlgorithmEgyptianFraction\obj\Debug\net5.0\02GreedyAlgorithmEgyptianFraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\02GreedyAlgorithmEgyptianFraction\obj\Debug\net5.0\02GreedyAlgorithmEgyptianFraction.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\02GreedyAlgorithmEgyptianFraction\obj\Debug\net5.0\02GreedyAlgorithmEgyptianFraction.AssemblyInfo.cs
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\02GreedyAlgorithmEgyptianFraction\obj\Debug\net5.0\02GreedyAlgorithmEgyptianFraction.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\02GreedyAlgorithmEgyptianFraction\obj\Debug\net5.0\02GreedyAlgorithmEgyptianFraction.dll
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\02GreedyAlgorithmEgyptianFraction\obj\Debug\net5.0\ref\02GreedyAlgorithmEgyptianFraction.dll
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\02GreedyAlgorithmEgyptianFraction\obj\Debug\net5.0\02GreedyAlgorithmEgyptianFraction.pdb
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\1stEx\02GreedyAlgorithmEgyptianFraction\obj\Debug\net5.0\02GreedyAlgorithmEgyptianFraction.genruntimeconfig.cache
