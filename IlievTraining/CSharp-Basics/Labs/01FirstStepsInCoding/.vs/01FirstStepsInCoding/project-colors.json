@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "debafcc9-eaf1-4c07-a090-6dbe3c1af607": {
+      "ProjectGuid": "debafcc9-eaf1-4c07-a090-6dbe3c1af607",
+      "DisplayName": "01HelloSoftUni",
+      "ColorIndex": 0
+    },
+    "7ce3fc3e-cda8-43fd-a092-989e92e19463": {
+      "ProjectGuid": "7ce3fc3e-cda8-43fd-a092-989e92e19463",
+      "DisplayName": "02Nums1To10",
+      "ColorIndex": 1
+    },
+    "fed34d69-d567-4a85-9ef6-d193c9c1027d": {
+      "ProjectGuid": "fed34d69-d567-4a85-9ef6-d193c9c1027d",
+      "DisplayName": "03RectangleArea",
+      "ColorIndex": 2
+    },
+    "38df636a-b4be-4bbc-8fbe-a0a8d80819c2": {
+      "ProjectGuid": "38df636a-b4be-4bbc-8fbe-a0a8d80819c2",
+      "DisplayName": "04InchesToCentimeters",
+      "ColorIndex": 3
+    },
+    "70f6f916-89d8-4162-a735-c06a3dba193a": {
+      "ProjectGuid": "70f6f916-89d8-4162-a735-c06a3dba193a",
+      "DisplayName": "05GreetingByName",
+      "ColorIndex": 4
+    },
+    "6dd68a0e-4aac-4392-aa54-ea2340cab3e2": {
+      "ProjectGuid": "6dd68a0e-4aac-4392-aa54-ea2340cab3e2",
+      "DisplayName": "06ConcatenateData",
+      "ColorIndex": 5
+    },
+    "130cf475-d885-4c85-b671-6cdb7ea5cac2": {
+      "ProjectGuid": "130cf475-d885-4c85-b671-6cdb7ea5cac2",
+      "DisplayName": "07ProjectsCreation",
+      "ColorIndex": 6
+    },
+    "23ce046b-12fd-47b1-9556-dac49de3ed3d": {
+      "ProjectGuid": "23ce046b-12fd-47b1-9556-dac49de3ed3d",
+      "DisplayName": "08PetShop",
+      "ColorIndex": 7
+    },
+    "78451868-d2b7-4ad1-a08d-b5f7baf7a584": {
+      "ProjectGuid": "78451868-d2b7-4ad1-a08d-b5f7baf7a584",
+      "DisplayName": "09YardGreening",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\03RectangleArea\bin\Debug\net5.0\03RectangleArea.exe
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\03RectangleArea\bin\Debug\net5.0\03RectangleArea.deps.json
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\03RectangleArea\bin\Debug\net5.0\03RectangleArea.runtimeconfig.json
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\03RectangleArea\bin\Debug\net5.0\03RectangleArea.runtimeconfig.dev.json
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\03RectangleArea\bin\Debug\net5.0\03RectangleArea.dll
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\03RectangleArea\bin\Debug\net5.0\ref\03RectangleArea.dll
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\03RectangleArea\bin\Debug\net5.0\03RectangleArea.pdb
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\03RectangleArea\obj\Debug\net5.0\03RectangleArea.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\03RectangleArea\obj\Debug\net5.0\03RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\03RectangleArea\obj\Debug\net5.0\03RectangleArea.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\03RectangleArea\obj\Debug\net5.0\03RectangleArea.AssemblyInfo.cs
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\03RectangleArea\obj\Debug\net5.0\03RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\03RectangleArea\obj\Debug\net5.0\03RectangleArea.dll
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\03RectangleArea\obj\Debug\net5.0\ref\03RectangleArea.dll
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\03RectangleArea\obj\Debug\net5.0\03RectangleArea.pdb
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\03RectangleArea\obj\Debug\net5.0\03RectangleArea.genruntimeconfig.cache

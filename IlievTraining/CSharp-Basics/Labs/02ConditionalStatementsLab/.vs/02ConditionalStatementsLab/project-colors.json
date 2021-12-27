@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c67d9380-9366-4a61-b2bc-f04183dc1beb": {
+      "ProjectGuid": "c67d9380-9366-4a61-b2bc-f04183dc1beb",
+      "DisplayName": "01ExcellentResult",
+      "ColorIndex": 0
+    },
+    "c4e060a4-cf1d-4364-bf2f-a2d4c108f170": {
+      "ProjectGuid": "c4e060a4-cf1d-4364-bf2f-a2d4c108f170",
+      "DisplayName": "02GreaterNumber",
+      "ColorIndex": 1
+    },
+    "e83df6c1-1c48-44d5-a9a9-9585dbde3600": {
+      "ProjectGuid": "e83df6c1-1c48-44d5-a9a9-9585dbde3600",
+      "DisplayName": "03EvenOrOdd",
+      "ColorIndex": 2
+    },
+    "542cbe7e-9e42-4413-a59b-fbf8dc538938": {
+      "ProjectGuid": "542cbe7e-9e42-4413-a59b-fbf8dc538938",
+      "DisplayName": "04PasswordGuess",
+      "ColorIndex": 3
+    },
+    "ade3107f-0429-4772-b61d-e3bbc6dccdd6": {
+      "ProjectGuid": "ade3107f-0429-4772-b61d-e3bbc6dccdd6",
+      "DisplayName": "05Number100To200",
+      "ColorIndex": 4
+    },
+    "eb139a4c-22a5-48fc-b87b-a6ba13295f54": {
+      "ProjectGuid": "eb139a4c-22a5-48fc-b87b-a6ba13295f54",
+      "DisplayName": "06SpeedInfo",
+      "ColorIndex": 5
+    },
+    "6639c91e-2d7a-4c67-a9c7-4defbfa4da77": {
+      "ProjectGuid": "6639c91e-2d7a-4c67-a9c7-4defbfa4da77",
+      "DisplayName": "07AreaOfFigures",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
