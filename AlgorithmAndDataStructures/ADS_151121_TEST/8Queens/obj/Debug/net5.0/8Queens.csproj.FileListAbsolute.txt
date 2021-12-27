@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\8Queens\bin\Debug\net5.0\8Queens.exe
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\8Queens\bin\Debug\net5.0\8Queens.deps.json
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\8Queens\bin\Debug\net5.0\8Queens.runtimeconfig.json
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\8Queens\bin\Debug\net5.0\8Queens.runtimeconfig.dev.json
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\8Queens\bin\Debug\net5.0\8Queens.dll
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\8Queens\bin\Debug\net5.0\ref\8Queens.dll
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\8Queens\bin\Debug\net5.0\8Queens.pdb
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\8Queens\obj\Debug\net5.0\8Queens.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\8Queens\obj\Debug\net5.0\8Queens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\8Queens\obj\Debug\net5.0\8Queens.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\8Queens\obj\Debug\net5.0\8Queens.AssemblyInfo.cs
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\8Queens\obj\Debug\net5.0\8Queens.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\8Queens\obj\Debug\net5.0\8Queens.dll
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\8Queens\obj\Debug\net5.0\ref\8Queens.dll
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\8Queens\obj\Debug\net5.0\8Queens.pdb
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\8Queens\obj\Debug\net5.0\8Queens.genruntimeconfig.cache
