@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\Fixing\GetDay\bin\Debug\net5.0\GetDay.exe
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\Fixing\GetDay\bin\Debug\net5.0\GetDay.deps.json
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\Fixing\GetDay\bin\Debug\net5.0\GetDay.runtimeconfig.json
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\Fixing\GetDay\bin\Debug\net5.0\GetDay.runtimeconfig.dev.json
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\Fixing\GetDay\bin\Debug\net5.0\GetDay.dll
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\Fixing\GetDay\bin\Debug\net5.0\ref\GetDay.dll
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\Fixing\GetDay\bin\Debug\net5.0\GetDay.pdb
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\Fixing\GetDay\obj\Debug\net5.0\GetDay.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\Fixing\GetDay\obj\Debug\net5.0\GetDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\Fixing\GetDay\obj\Debug\net5.0\GetDay.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\Fixing\GetDay\obj\Debug\net5.0\GetDay.AssemblyInfo.cs
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\Fixing\GetDay\obj\Debug\net5.0\GetDay.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\Fixing\GetDay\obj\Debug\net5.0\GetDay.dll
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\Fixing\GetDay\obj\Debug\net5.0\ref\GetDay.dll
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\Fixing\GetDay\obj\Debug\net5.0\GetDay.pdb
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\Fixing\GetDay\obj\Debug\net5.0\GetDay.genruntimeconfig.cache
