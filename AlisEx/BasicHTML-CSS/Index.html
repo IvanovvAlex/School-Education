@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Ex</title>
+</head>
+<body>
+    <Form>
+        <fieldset id="personalDataField" > 
+            <legend>Лични данни</legend>
+                <section>
+                    <input type="text" name="name" placeholder="Име" id="nameInput"><input type="text" name="surName" placeholder="Фамилия" id="surNameInput">
+                    <p>
+                    <input type="button" value="Изпрати"><input type="button" value="Рестартирай">
+                    </p>
+                </section>
+    </fieldset>
+    <fieldset id="preferencesDataField" >
+        <legend>Предпочитания за меню</legend>
+            <section>
+                <div><input type="radio" name="none" id="noneChoise"><label for="noneChoiseLabel">Нямам</label></div>
+                <div><input type="radio" name="vegetarian" id="vegetarianChoise"><label for="vegetarianChoiseLabel">Вегетарианец</label></div>
+                <div><input type="radio" name="vegan" id="veganChoise"><label for="veganChoiseLabel">Веган</label></div>
+                
+                <textarea id="descriptionTextArea" name="descriptionText" rows="8" cols="22" placeholder="Пояснения..." ></textarea>
+                <p>
+                <input type="button" value="Изпрати"><input type="button" value="Рестартирай">
+                </p>
+            </section>
+    </fieldset>
+    </Form>
+</body>
+</html>
