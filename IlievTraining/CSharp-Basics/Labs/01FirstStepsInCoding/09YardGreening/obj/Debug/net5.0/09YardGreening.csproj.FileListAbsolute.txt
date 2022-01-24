@@ -1,0 +1,4 @@
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\09YardGreening\obj\Debug\net5.0\09YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\09YardGreening\obj\Debug\net5.0\09YardGreening.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\09YardGreening\obj\Debug\net5.0\09YardGreening.AssemblyInfo.cs
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\09YardGreening\obj\Debug\net5.0\09YardGreening.csproj.CoreCompileInputs.cache

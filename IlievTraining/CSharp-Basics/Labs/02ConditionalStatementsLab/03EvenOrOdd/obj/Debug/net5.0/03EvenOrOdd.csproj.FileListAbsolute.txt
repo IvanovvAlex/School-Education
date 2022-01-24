@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\02ConditionalStatementsLab\03EvenOrOdd\bin\Debug\net5.0\03EvenOrOdd.exe
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\02ConditionalStatementsLab\03EvenOrOdd\bin\Debug\net5.0\03EvenOrOdd.deps.json
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\02ConditionalStatementsLab\03EvenOrOdd\bin\Debug\net5.0\03EvenOrOdd.runtimeconfig.json
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\02ConditionalStatementsLab\03EvenOrOdd\bin\Debug\net5.0\03EvenOrOdd.runtimeconfig.dev.json
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\02ConditionalStatementsLab\03EvenOrOdd\bin\Debug\net5.0\03EvenOrOdd.dll
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\02ConditionalStatementsLab\03EvenOrOdd\bin\Debug\net5.0\ref\03EvenOrOdd.dll
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\02ConditionalStatementsLab\03EvenOrOdd\bin\Debug\net5.0\03EvenOrOdd.pdb
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\02ConditionalStatementsLab\03EvenOrOdd\obj\Debug\net5.0\03EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\02ConditionalStatementsLab\03EvenOrOdd\obj\Debug\net5.0\03EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\02ConditionalStatementsLab\03EvenOrOdd\obj\Debug\net5.0\03EvenOrOdd.AssemblyInfo.cs
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\02ConditionalStatementsLab\03EvenOrOdd\obj\Debug\net5.0\03EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\02ConditionalStatementsLab\03EvenOrOdd\obj\Debug\net5.0\03EvenOrOdd.dll
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\02ConditionalStatementsLab\03EvenOrOdd\obj\Debug\net5.0\ref\03EvenOrOdd.dll
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\02ConditionalStatementsLab\03EvenOrOdd\obj\Debug\net5.0\03EvenOrOdd.pdb
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\02ConditionalStatementsLab\03EvenOrOdd\obj\Debug\net5.0\03EvenOrOdd.genruntimeconfig.cache

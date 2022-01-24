@@ -36,7 +36,7 @@ namespace _02GreedyAlgorithmEgyptianFraction
             if (nr > dr)
             {
                 Console.Write(nr / dr + " + ");
-                printEgyptian(nr % dr, dr);
+                PrintEgyptian(nr % dr, dr);
                 return;
             }
 
@@ -48,7 +48,7 @@ namespace _02GreedyAlgorithmEgyptianFraction
             Console.Write("1/" + n + " + ");
 
             // Recur for remaining part
-            printEgyptian(nr * n - dr, dr * n);
+            PrintEgyptian(nr * n - dr, dr * n);
         }
 
     }

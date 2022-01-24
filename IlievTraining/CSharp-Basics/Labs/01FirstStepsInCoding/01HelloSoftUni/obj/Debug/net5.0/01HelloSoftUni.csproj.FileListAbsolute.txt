@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\01HelloSoftUni\bin\Debug\net5.0\01HelloSoftUni.exe
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\01HelloSoftUni\bin\Debug\net5.0\01HelloSoftUni.deps.json
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\01HelloSoftUni\bin\Debug\net5.0\01HelloSoftUni.runtimeconfig.json
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\01HelloSoftUni\bin\Debug\net5.0\01HelloSoftUni.runtimeconfig.dev.json
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\01HelloSoftUni\bin\Debug\net5.0\01HelloSoftUni.dll
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\01HelloSoftUni\bin\Debug\net5.0\ref\01HelloSoftUni.dll
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\01HelloSoftUni\bin\Debug\net5.0\01HelloSoftUni.pdb
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\01HelloSoftUni\obj\Debug\net5.0\01HelloSoftUni.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\01HelloSoftUni\obj\Debug\net5.0\01HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\01HelloSoftUni\obj\Debug\net5.0\01HelloSoftUni.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\01HelloSoftUni\obj\Debug\net5.0\01HelloSoftUni.AssemblyInfo.cs
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\01HelloSoftUni\obj\Debug\net5.0\01HelloSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\01HelloSoftUni\obj\Debug\net5.0\01HelloSoftUni.dll
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\01HelloSoftUni\obj\Debug\net5.0\ref\01HelloSoftUni.dll
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\01HelloSoftUni\obj\Debug\net5.0\01HelloSoftUni.pdb
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\01HelloSoftUni\obj\Debug\net5.0\01HelloSoftUni.genruntimeconfig.cache

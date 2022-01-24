@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\02Nums1To10\bin\Debug\net5.0\02Nums1To10.exe
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\02Nums1To10\bin\Debug\net5.0\02Nums1To10.deps.json
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\02Nums1To10\bin\Debug\net5.0\02Nums1To10.runtimeconfig.json
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\02Nums1To10\bin\Debug\net5.0\02Nums1To10.runtimeconfig.dev.json
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\02Nums1To10\bin\Debug\net5.0\02Nums1To10.dll
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\02Nums1To10\bin\Debug\net5.0\ref\02Nums1To10.dll
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\02Nums1To10\bin\Debug\net5.0\02Nums1To10.pdb
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\02Nums1To10\obj\Debug\net5.0\02Nums1To10.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\02Nums1To10\obj\Debug\net5.0\02Nums1To10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\02Nums1To10\obj\Debug\net5.0\02Nums1To10.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\02Nums1To10\obj\Debug\net5.0\02Nums1To10.AssemblyInfo.cs
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\02Nums1To10\obj\Debug\net5.0\02Nums1To10.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\02Nums1To10\obj\Debug\net5.0\02Nums1To10.dll
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\02Nums1To10\obj\Debug\net5.0\ref\02Nums1To10.dll
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\02Nums1To10\obj\Debug\net5.0\02Nums1To10.pdb
+C:\Users\HP\source\repos\School-Education\IlievTraining\CSharp-Basics\Labs\01FirstStepsInCoding\02Nums1To10\obj\Debug\net5.0\02Nums1To10.genruntimeconfig.cache

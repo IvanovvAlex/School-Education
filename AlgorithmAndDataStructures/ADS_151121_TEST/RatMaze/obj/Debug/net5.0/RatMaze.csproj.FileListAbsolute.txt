@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\RatMaze\bin\Debug\net5.0\RatMaze.exe
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\RatMaze\bin\Debug\net5.0\RatMaze.deps.json
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\RatMaze\bin\Debug\net5.0\RatMaze.runtimeconfig.json
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\RatMaze\bin\Debug\net5.0\RatMaze.runtimeconfig.dev.json
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\RatMaze\bin\Debug\net5.0\RatMaze.dll
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\RatMaze\bin\Debug\net5.0\ref\RatMaze.dll
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\RatMaze\bin\Debug\net5.0\RatMaze.pdb
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\RatMaze\obj\Debug\net5.0\RatMaze.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\RatMaze\obj\Debug\net5.0\RatMaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\RatMaze\obj\Debug\net5.0\RatMaze.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\RatMaze\obj\Debug\net5.0\RatMaze.AssemblyInfo.cs
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\RatMaze\obj\Debug\net5.0\RatMaze.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\RatMaze\obj\Debug\net5.0\RatMaze.dll
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\RatMaze\obj\Debug\net5.0\ref\RatMaze.dll
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\RatMaze\obj\Debug\net5.0\RatMaze.pdb
+C:\Users\HP\source\repos\School-Education\AlgorithmAndDataStructures\ADS_151121_TEST\RatMaze\obj\Debug\net5.0\RatMaze.genruntimeconfig.cache
