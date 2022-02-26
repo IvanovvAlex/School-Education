@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\BerkTests\FibDyn\bin\Debug\net5.0\FibDyn.exe
+C:\Users\HP\source\repos\BerkTests\FibDyn\bin\Debug\net5.0\FibDyn.deps.json
+C:\Users\HP\source\repos\BerkTests\FibDyn\bin\Debug\net5.0\FibDyn.runtimeconfig.json
+C:\Users\HP\source\repos\BerkTests\FibDyn\bin\Debug\net5.0\FibDyn.runtimeconfig.dev.json
+C:\Users\HP\source\repos\BerkTests\FibDyn\bin\Debug\net5.0\FibDyn.dll
+C:\Users\HP\source\repos\BerkTests\FibDyn\bin\Debug\net5.0\ref\FibDyn.dll
+C:\Users\HP\source\repos\BerkTests\FibDyn\bin\Debug\net5.0\FibDyn.pdb
+C:\Users\HP\source\repos\BerkTests\FibDyn\obj\Debug\net5.0\FibDyn.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BerkTests\FibDyn\obj\Debug\net5.0\FibDyn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\BerkTests\FibDyn\obj\Debug\net5.0\FibDyn.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BerkTests\FibDyn\obj\Debug\net5.0\FibDyn.AssemblyInfo.cs
+C:\Users\HP\source\repos\BerkTests\FibDyn\obj\Debug\net5.0\FibDyn.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BerkTests\FibDyn\obj\Debug\net5.0\FibDyn.dll
+C:\Users\HP\source\repos\BerkTests\FibDyn\obj\Debug\net5.0\ref\FibDyn.dll
+C:\Users\HP\source\repos\BerkTests\FibDyn\obj\Debug\net5.0\FibDyn.pdb
+C:\Users\HP\source\repos\BerkTests\FibDyn\obj\Debug\net5.0\FibDyn.genruntimeconfig.cache
