@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Tests\Test2\bin\Debug\net6.0\Test2.exe
+C:\Users\HP\source\repos\Tests\Test2\bin\Debug\net6.0\Test2.deps.json
+C:\Users\HP\source\repos\Tests\Test2\bin\Debug\net6.0\Test2.runtimeconfig.json
+C:\Users\HP\source\repos\Tests\Test2\bin\Debug\net6.0\Test2.dll
+C:\Users\HP\source\repos\Tests\Test2\bin\Debug\net6.0\ref\Test2.dll
+C:\Users\HP\source\repos\Tests\Test2\bin\Debug\net6.0\Test2.pdb
+C:\Users\HP\source\repos\Tests\Test2\obj\Debug\net6.0\Test2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Tests\Test2\obj\Debug\net6.0\Test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Tests\Test2\obj\Debug\net6.0\Test2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Tests\Test2\obj\Debug\net6.0\Test2.AssemblyInfo.cs
+C:\Users\HP\source\repos\Tests\Test2\obj\Debug\net6.0\Test2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Tests\Test2\obj\Debug\net6.0\Test2.dll
+C:\Users\HP\source\repos\Tests\Test2\obj\Debug\net6.0\ref\Test2.dll
+C:\Users\HP\source\repos\Tests\Test2\obj\Debug\net6.0\Test2.pdb
+C:\Users\HP\source\repos\Tests\Test2\obj\Debug\net6.0\Test2.genruntimeconfig.cache

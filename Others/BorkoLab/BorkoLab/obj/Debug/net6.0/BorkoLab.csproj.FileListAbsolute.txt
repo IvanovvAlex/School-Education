@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\BorkoLab\BorkoLab\bin\Debug\net6.0\BorkoLab.exe
+C:\Users\HP\source\repos\BorkoLab\BorkoLab\bin\Debug\net6.0\BorkoLab.deps.json
+C:\Users\HP\source\repos\BorkoLab\BorkoLab\bin\Debug\net6.0\BorkoLab.runtimeconfig.json
+C:\Users\HP\source\repos\BorkoLab\BorkoLab\bin\Debug\net6.0\BorkoLab.dll
+C:\Users\HP\source\repos\BorkoLab\BorkoLab\bin\Debug\net6.0\ref\BorkoLab.dll
+C:\Users\HP\source\repos\BorkoLab\BorkoLab\bin\Debug\net6.0\BorkoLab.pdb
+C:\Users\HP\source\repos\BorkoLab\BorkoLab\obj\Debug\net6.0\BorkoLab.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BorkoLab\BorkoLab\obj\Debug\net6.0\BorkoLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\BorkoLab\BorkoLab\obj\Debug\net6.0\BorkoLab.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BorkoLab\BorkoLab\obj\Debug\net6.0\BorkoLab.AssemblyInfo.cs
+C:\Users\HP\source\repos\BorkoLab\BorkoLab\obj\Debug\net6.0\BorkoLab.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BorkoLab\BorkoLab\obj\Debug\net6.0\BorkoLab.dll
+C:\Users\HP\source\repos\BorkoLab\BorkoLab\obj\Debug\net6.0\ref\BorkoLab.dll
+C:\Users\HP\source\repos\BorkoLab\BorkoLab\obj\Debug\net6.0\BorkoLab.pdb
+C:\Users\HP\source\repos\BorkoLab\BorkoLab\obj\Debug\net6.0\BorkoLab.genruntimeconfig.cache
