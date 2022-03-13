@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c8cddb1-3a34-4da4-86c1-ca4fd0107987": {
+      "ProjectGuid": "5c8cddb1-3a34-4da4-86c1-ca4fd0107987",
+      "DisplayName": "03FractionalKnapsackProblemGreedyAlgorithm",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
