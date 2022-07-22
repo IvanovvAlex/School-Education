@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\School-Education\MathFundamentalsInProgramming\StatisticsProject\StatisticsProject\bin\Debug\net6.0-windows\StatisticsProject.exe
+C:\Users\HP\source\repos\School-Education\MathFundamentalsInProgramming\StatisticsProject\StatisticsProject\bin\Debug\net6.0-windows\StatisticsProject.deps.json
+C:\Users\HP\source\repos\School-Education\MathFundamentalsInProgramming\StatisticsProject\StatisticsProject\bin\Debug\net6.0-windows\StatisticsProject.runtimeconfig.json
+C:\Users\HP\source\repos\School-Education\MathFundamentalsInProgramming\StatisticsProject\StatisticsProject\bin\Debug\net6.0-windows\StatisticsProject.dll
+C:\Users\HP\source\repos\School-Education\MathFundamentalsInProgramming\StatisticsProject\StatisticsProject\bin\Debug\net6.0-windows\StatisticsProject.pdb
+C:\Users\HP\source\repos\School-Education\MathFundamentalsInProgramming\StatisticsProject\StatisticsProject\obj\Debug\net6.0-windows\StatisticsProject.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\School-Education\MathFundamentalsInProgramming\StatisticsProject\StatisticsProject\obj\Debug\net6.0-windows\StatisticsProject.Form1.resources
+C:\Users\HP\source\repos\School-Education\MathFundamentalsInProgramming\StatisticsProject\StatisticsProject\obj\Debug\net6.0-windows\StatisticsProject.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\School-Education\MathFundamentalsInProgramming\StatisticsProject\StatisticsProject\obj\Debug\net6.0-windows\StatisticsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\School-Education\MathFundamentalsInProgramming\StatisticsProject\StatisticsProject\obj\Debug\net6.0-windows\StatisticsProject.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\School-Education\MathFundamentalsInProgramming\StatisticsProject\StatisticsProject\obj\Debug\net6.0-windows\StatisticsProject.AssemblyInfo.cs
+C:\Users\HP\source\repos\School-Education\MathFundamentalsInProgramming\StatisticsProject\StatisticsProject\obj\Debug\net6.0-windows\StatisticsProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\School-Education\MathFundamentalsInProgramming\StatisticsProject\StatisticsProject\obj\Debug\net6.0-windows\StatisticsProject.dll
+C:\Users\HP\source\repos\School-Education\MathFundamentalsInProgramming\StatisticsProject\StatisticsProject\obj\Debug\net6.0-windows\refint\StatisticsProject.dll
+C:\Users\HP\source\repos\School-Education\MathFundamentalsInProgramming\StatisticsProject\StatisticsProject\obj\Debug\net6.0-windows\StatisticsProject.pdb
+C:\Users\HP\source\repos\School-Education\MathFundamentalsInProgramming\StatisticsProject\StatisticsProject\obj\Debug\net6.0-windows\StatisticsProject.genruntimeconfig.cache
+C:\Users\HP\source\repos\School-Education\MathFundamentalsInProgramming\StatisticsProject\StatisticsProject\obj\Debug\net6.0-windows\ref\StatisticsProject.dll

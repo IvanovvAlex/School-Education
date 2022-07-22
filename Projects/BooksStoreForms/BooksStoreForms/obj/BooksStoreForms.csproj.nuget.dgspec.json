@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\School\\School-Education\\Projects\\BooksStoreForms\\BooksStoreForms\\BooksStoreForms.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\School-Education\\Projects\\BooksStoreForms\\BooksStoreForms\\BooksStoreForms.csproj": {}
   },
   "projects": {
-    "D:\\School\\School-Education\\Projects\\BooksStoreForms\\BooksStoreForms\\BooksStoreForms.csproj": {
+    "C:\\Users\\HP\\source\\repos\\School-Education\\Projects\\BooksStoreForms\\BooksStoreForms\\BooksStoreForms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School\\School-Education\\Projects\\BooksStoreForms\\BooksStoreForms\\BooksStoreForms.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\School-Education\\Projects\\BooksStoreForms\\BooksStoreForms\\BooksStoreForms.csproj",
         "projectName": "BooksStoreForms",
-        "projectPath": "D:\\School\\School-Education\\Projects\\BooksStoreForms\\BooksStoreForms\\BooksStoreForms.csproj",
-        "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "D:\\School\\School-Education\\Projects\\BooksStoreForms\\BooksStoreForms\\obj\\",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\School-Education\\Projects\\BooksStoreForms\\BooksStoreForms\\BooksStoreForms.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\School-Education\\Projects\\BooksStoreForms\\BooksStoreForms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -67,7 +67,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
